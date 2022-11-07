@@ -3,67 +3,13 @@ import csv
 from cv2 import add
 import xml.etree.ElementTree as ET
 import find_address
+from addr_formatting import *
 
-def extend_street_abrev(abreviation):
-    abrev_dict = {'AVE': "Avenue", 
-        'BLVD': 'Boulevard',
-        'CIR': 'Circle',
-        'CT': 'Court',
-        'DR': 'Drive',
-        'LN': 'Lane',
-        'LOOP': 'Loop',
-        'PASS': 'Pass',
-        'PKWY': 'Parkway',
-        'PL': 'Place',
-        'RD': 'Road',
-        'RDGE': 'Ridge',
-        'RUN': 'Run',
-        'ROW': 'Row',
-        'ST': 'Street',
-        'SQ': 'Square',
-        'TER': 'Terrace',
-        'TERR': 'Terrace',
-        'TRL': 'Trail',
-        'WAY': 'Way'}
-    return abrev_dict[abreviation.upper()]
-
-def extend_dir_abrev(abreviation):
-    abrev_dict = {'N': "North", 'S': 'South', 'E': 'East', 'W': 'West', 'NE': "Northeast", 'SE': 'Southeast', 'SW': 'Southwest', 'NW': 'Northwest'}
-    return abrev_dict[abreviation.upper()]
-
-def format_street(street, streettype = '', direction = '', p_direction = ''):
-    if street[0].isnumeric():
-        street = street.lower()
-    else:
-        street = street.title()
-    full_name = ''
-    if direction != '':
-        full_name += extend_dir_abrev(direction) + ' '
-    full_name += street
-    if streettype != '':
-        full_name += ' ' + extend_street_abrev(streettype)
-    if p_direction != '':
-        full_name += ' ' + extend_dir_abrev(p_direction)
-    return full_name
-
-def format_housenumber(housenumber, extension = ''):
-    if extension == '':
-        return housenumber
-    if extension == '1/2':
-        extension = ' 1/2'
-    return housenumber + extension
-
-def cut_zip(zipcode):
-    if len(zipcode) == 9:
-        return zipcode[:5]
-    return zipcode
-    
-def format_zip(zipcode):
-    if len(zipcode) == 9:
-        return zipcode[:5] + '-' + zipcode[5:]
-    return zipcode
 
 def get_housenum_value(housenumber):
+    '''
+    Return the housenumber value (for sorting accounting for extensions)
+    '''
     housenumber = housenumber.strip()
     if housenumber.isnumeric():
         return int(housenumber)
@@ -73,13 +19,25 @@ def get_housenum_value(housenumber):
 
 
 def combine_housenumbers(housenumbers):
+    '''
+    Given a list of housenumbers (which may be comma separated themselves)
+    return the new housenumber with all of them (sorted)
+    '''
     housenumbers = (','.join(housenumbers)).split(',')
     housenumbers = [x.strip() for x in housenumbers]
     housenumbers = list(set(housenumbers))
     housenumbers.sort(key=get_housenum_value)
     return ','.join(housenumbers)
 
+
 def combine_zips(zips):
+    '''
+    given a list of zip codes, find their lowest common denomonator \n
+    e.g. 53110-4444 + 53110-4444 = 53110-4444, \n
+    53110 + 53110-4444 = 53110, \n
+    53110 + 53110 = 53110, \n
+    53110 + 53111 = ''
+    '''
     if len(zips) == 0:
         return ''
     if len(zips) == 1:
@@ -106,44 +64,45 @@ def combine_zips(zips):
     return ''
 
 
-def combine_units(units):
-    units = (','.join(units)).split(',')
-    units = [x.strip() for x in units]
-    units = list(set(units))
-    units.sort(key=get_housenum_value)
-    return ','.join(units)
-
-
 def combine_cities(cities):
+    '''
+    Check the cities are the same and returns that city
+    else returns an empty string
+    '''
     if len(set(cities)) == 1:
         return cities[0]
     return ''
 
-def find_dupes_csv():
-    # opening the CSV file
+
+def stack_addresses():
+    '''
+    Reads in address points.csv and finds all the addresses stacked on one location. 
+    These addresses were reduced to only one via a bug in JOSM OpenData. 
+    The stacked addresses are crossreferenced with the osm addresses to add the addresses back to
+    the osm tract files. The addresses are combined with commas as these refer to addresses in the
+    same builing. Addresses with a different street are added to a new address node.
+    '''
+
+    #do first pass to find out which locations have stacked adresses
     with open('Address_Points.csv', mode ='r') as file:   
-            
         # reading the CSV file
         csvFile = csv.DictReader(file)
         stack_counts = {}
-        # displaying the contents of the CSV file
         for lines in csvFile:
             location = lines['X'] + lines['Y']
             stack_counts.setdefault(location, 0)
             stack_counts[location] += 1
 
-        for key in list(stack_counts):
-            if stack_counts[key] < 2:
-                del stack_counts[key]
+    for key in list(stack_counts):
+        if stack_counts[key] < 2:
+            del stack_counts[key]
 
-    stacked_addrs = {}
-    stacked_addrs_list = []
+
     loc_dict = {}
     name_dict = {}
     with open('Address_Points.csv', mode ='r') as file:   
         # reading the CSV file
         csvFile = csv.DictReader(file)
-        # displaying the contents of the CSV file
         for lines in csvFile:
             location = lines['X'] + lines['Y']
             if len(location) == 0:
@@ -158,24 +117,10 @@ def find_dupes_csv():
             city = lines['MUNI']
             zip = cut_zip(lines['ZIP_CODE'])
             addr_entry = {'housenumber': housenumber, 'street': street, 'unit': unit, 'city': city, 'zip': zip, 'location': location}
-            stacked_addrs_list.append(addr_entry)
             loc_dict.setdefault(location, [])
             loc_dict[location].append(addr_entry)
             name_dict[housenumber+street+unit+city] = addr_entry
             
-            '''
-            stacked_addrs.setdefault(location, {'housenumber': [], 'street': [], 'unit': [], 'city': [], 'zip': []})
-            if housenumber not in stacked_addrs[location]['housenumber']:
-                stacked_addrs[location]['housenumber'].append(housenumber)
-            if street not in stacked_addrs[location]['street']:
-                stacked_addrs[location]['street'].append(street)
-            if len(unit) > 0:
-                stacked_addrs[location]['unit'].append(unit)
-            if city not in stacked_addrs[location]['city']: 
-                stacked_addrs[location]['city'].append(city)
-            if zip not in stacked_addrs[location]['zip']:
-                stacked_addrs[location]['zip'].append(zip)
-            '''
     nodeid = -750000
     lowerbound, upperbound = 1, 75
     new_addrs_list_list = [[] for x in range(upperbound)]
@@ -248,21 +193,17 @@ def find_dupes_csv():
     for i in range(lowerbound, upperbound):            
         add_addrs(new_addrs_list_list[i], f'addresses_tract{i}.osm')
 
-
-            
-    #diff_street_with_unit = [x for x in stacked_addrs.values() if len(x['street']) > 1 and len(x['unit']) > 1]
-    #print(diff_street_with_unit)
-    #filtered = [x for x in stacked_addrs.values() if '541' in x['housenumber'] and 'East Erie Street' in  x['street']]
-    #print(filtered)
-    #find_dup_stacked(stacked_addrs_list)
         
-def add_addrs(newaddrs_list, filename):
-    if len(newaddrs_list) < 1:
+def add_addrs(new_addresses, filename):
+    '''
+    Add the addresses in new addresses to the osm file at filename
+    '''
+    if len(new_addresses) < 1:
         return
     tree = ET.parse(filename)
     root = tree.getroot()
     
-    for new_addr in newaddrs_list:
+    for new_addr in new_addresses:
         print(new_addr['housenumber'], new_addr['street'])
         new_node = ET.SubElement(root, 'node', {'id': new_addr['id'], 'action': 'modify', 'lat': new_addr['lat'], 'lon': new_addr['lon']})
         ET.SubElement(new_node, 'tag', {'k': 'addr:housenumber', 'v': new_addr['housenumber']})
@@ -273,7 +214,13 @@ def add_addrs(newaddrs_list, filename):
     tree.write(filename)   
 
 
-def find_dup_stacked(stacked_addrs_list):       
+def find_dup_stacked(stacked_addrs_list):
+    '''
+    Given a list a stacked addresses look for notes added earlier that the same address
+    node exists in muliple places and returns this list. These addresses need to be 
+    manually disambiguated or else adding the stacked addresses will restore more
+    addresses where they were not appropriate.
+    '''
     for i in range(1, 75):
         tree = ET.parse(f'addresses_tract{i}.osm')
         root = tree.getroot()
@@ -307,7 +254,7 @@ def find_dup_stacked(stacked_addrs_list):
 
 
 def main():
-    find_dupes_csv()
+    stack_addresses()
 
 if __name__ == '__main__':
     main()
