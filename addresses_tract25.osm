@@ -43,12 +43,11 @@
   </node>
   <node id="-431020" action="modify" visible="true" lat="43.0414077" lon="-88.0138622">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="912" />
+    <tag k="addr:housenumber" v="912,918" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431021" action="modify" visible="true" lat="43.0431508" lon="-88.0329034">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="9501" />
@@ -122,10 +121,10 @@
   </node>
   <node id="-431031" action="modify" visible="true" lat="43.0362456" lon="-88.0260349">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="517" />
-    <tag k="addr:postcode" v="53226-4500" />
+    <tag k="addr:housenumber" v="9112,9114,9116" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="North 91st Street" />
+    <tag k="addr:street" v="West Blue Mound Road" />
   </node>
   <node id="-431032" action="modify" visible="true" lat="43.0442696" lon="-88.0157199">
     <tag k="addr:city" v="Wauwatosa" />
@@ -164,8 +163,8 @@
   </node>
   <node id="-431037" action="modify" visible="true" lat="43.03622" lon="-88.0284523">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9230" />
-    <tag k="addr:postcode" v="53226-4407" />
+    <tag k="addr:housenumber" v="9226,9228,9230" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Blue Mound Road" />
   </node>
@@ -192,7 +191,7 @@
   </node>
   <node id="-431041" action="modify" visible="true" lat="43.0465089" lon="-88.0173099">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1223" />
+    <tag k="addr:housenumber" v="1223,1225" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Elm Lawn Street" />
@@ -277,11 +276,10 @@
   <node id="-431053" action="modify" visible="true" lat="43.0380737" lon="-88.0294166">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="9309" />
-    <tag k="addr:postcode" v="53226-3523" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
-    <tag k="addr:unit" v="2" />
-  </node>
+    </node>
   <node id="-431054" action="modify" visible="true" lat="43.0475051" lon="-88.0098317">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1245" />
@@ -295,16 +293,14 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Avon Court" />
-    <tag k="addr:unit" v="4" />
-  </node>
+    </node>
   <node id="-431056" action="modify" visible="true" lat="43.0418528" lon="-88.0143779">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="933" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431057" action="modify" visible="true" lat="43.0447375" lon="-88.0151466">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8219" />
@@ -336,11 +332,10 @@
   <node id="-431061" action="modify" visible="true" lat="43.0376334" lon="-88.0278657">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="9212" />
-    <tag k="addr:postcode" v="53226-4440" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Michigan Street" />
-    <tag k="addr:unit" v="A" />
-  </node>
+    </node>
   <node id="-431062" action="modify" visible="true" lat="43.0447703" lon="-88.0126416">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1134" />
@@ -371,7 +366,7 @@
   </node>
   <node id="-431066" action="modify" visible="true" lat="43.0434985" lon="-88.0159373">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8314" />
+    <tag k="addr:housenumber" v="8312,8314" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Portland Avenue" />
@@ -382,12 +377,6 @@
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="William Coffey Drive" />
-  </node>
-  <node id="-431068" action="modify" visible="true" lat="43.0386113" lon="-88.0289527">
-    <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="8800" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="West Wisconsin Avenue" />
   </node>
   <node id="-431069" action="modify" visible="true" lat="43.0409456" lon="-88.014732">
     <tag k="addr:city" v="Wauwatosa" />
@@ -412,7 +401,7 @@
   </node>
   <node id="-431072" action="modify" visible="true" lat="43.045323" lon="-88.0158418">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1163" />
+    <tag k="addr:housenumber" v="1163,1165" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Robertson Street" />
@@ -447,12 +436,11 @@
   </node>
   <node id="-431077" action="modify" visible="true" lat="43.0381483" lon="-88.0284365">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9239" />
-    <tag k="addr:postcode" v="53226-3521" />
+    <tag k="addr:housenumber" v="9231,9235,9239" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
-    <tag k="addr:unit" v="4" />
-  </node>
+    </node>
   <node id="-431078" action="modify" visible="true" lat="43.0408449" lon="-88.015536">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8243" />
@@ -469,8 +457,8 @@
   </node>
   <node id="-431080" action="modify" visible="true" lat="43.0363456" lon="-88.0279857">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9208" />
-    <tag k="addr:postcode" v="53226-4407" />
+    <tag k="addr:housenumber" v="9200,9208" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Blue Mound Road" />
   </node>
@@ -518,7 +506,7 @@
   </node>
   <node id="-431087" action="modify" visible="true" lat="43.0461844" lon="-88.0148924">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8213" />
+    <tag k="addr:housenumber" v="8211,8213" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Harwood Avenue" />
@@ -532,8 +520,8 @@
   </node>
   <node id="-431089" action="modify" visible="true" lat="43.036256" lon="-88.0264735">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9138" />
-    <tag k="addr:postcode" v="53226-4590" />
+    <tag k="addr:housenumber" v="9128,9130,9132,9134,9136,9138" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Blue Mound Road" />
   </node>
@@ -574,7 +562,7 @@
   </node>
   <node id="-431095" action="modify" visible="true" lat="43.0459459" lon="-88.0122217">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1192" />
+    <tag k="addr:housenumber" v="1190,1192" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
@@ -592,8 +580,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Harwood Avenue" />
-    <tag k="addr:unit" v="322" />
-  </node>
+    </node>
   <node id="-431098" action="modify" visible="true" lat="43.0408318" lon="-88.0162091">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8311" />
@@ -668,11 +655,10 @@
   <node id="-431108" action="modify" visible="true" lat="43.0372664" lon="-88.0243976">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="560" />
-    <tag k="addr:postcode" v="53226-4558" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 90th Street" />
-    <tag k="addr:unit" v="6" />
-  </node>
+    </node>
   <node id="-431109" action="modify" visible="true" lat="43.0381955" lon="-88.0234022">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="640" />
@@ -697,11 +683,10 @@
   <node id="-431112" action="modify" visible="true" lat="43.0380833" lon="-88.0272071">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="9145" />
-    <tag k="addr:postcode" v="53226-3519" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
-    <tag k="addr:unit" v="3" />
-  </node>
+    </node>
   <node id="-431113" action="modify" visible="true" lat="43.0435842" lon="-88.01277">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1060" />
@@ -730,11 +715,10 @@
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
-    <tag k="addr:unit" v="3" />
-  </node>
+    </node>
   <node id="-431117" action="modify" visible="true" lat="43.0466288" lon="-88.0115706">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1223" />
+    <tag k="addr:housenumber" v="1223,1225" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Kavanaugh Place" />
@@ -752,8 +736,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-    <tag k="addr:unit" v="4" />
-  </node>
+    </node>
   <node id="-431120" action="modify" visible="true" lat="43.036866" lon="-88.0304608">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="551" />
@@ -774,19 +757,11 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Harwood Avenue" />
-    <tag k="addr:unit" v="A" />
-  </node>
-  <node id="-431123" action="modify" visible="true" lat="43.04534" lon="-88.0280541">
-    <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="9300" />
-    <tag k="addr:postcode" v="53226" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="West Watertown Plank Road" />
-  </node>
+    </node>
   <node id="-431124" action="modify" visible="true" lat="43.0380978" lon="-88.03087">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9423" />
-    <tag k="addr:postcode" v="53226-3525" />
+    <tag k="addr:housenumber" v="9417,9419,9421,9423" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
   </node>
@@ -799,7 +774,7 @@
   </node>
   <node id="-431126" action="modify" visible="true" lat="43.0465242" lon="-88.0128054">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1221" />
+    <tag k="addr:housenumber" v="1219,1221" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
@@ -877,11 +852,10 @@
   <node id="-431137" action="modify" visible="true" lat="43.0372877" lon="-88.0239689">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="603" />
-    <tag k="addr:postcode" v="53226-4555" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 89th Street" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431138" action="modify" visible="true" lat="43.0382927" lon="-88.0201085">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8625" />
@@ -916,8 +890,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-    <tag k="addr:unit" v="16" />
-  </node>
+    </node>
   <node id="-431143" action="modify" visible="true" lat="43.0364782" lon="-88.023922">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="523" />
@@ -984,12 +957,11 @@
   </node>
   <node id="-431152" action="modify" visible="true" lat="43.0361893" lon="-88.0243871">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="8924" />
-    <tag k="addr:postcode" v="53226-4568" />
+    <tag k="addr:housenumber" v="8920,8924" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Blue Mound Road" />
-    <tag k="addr:unit" v="2" />
-  </node>
+    </node>
   <node id="-431153" action="modify" visible="true" lat="43.0369871" lon="-88.02636">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="553" />
@@ -1027,7 +999,7 @@
   </node>
   <node id="-431158" action="modify" visible="true" lat="43.0402351" lon="-88.0171255">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="832" />
+    <tag k="addr:housenumber" v="830,832" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Windsor Court" />
@@ -1087,8 +1059,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431167" action="modify" visible="true" lat="43.0413441" lon="-88.0163525">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8316" />
@@ -1098,7 +1069,7 @@
   </node>
   <node id="-431168" action="modify" visible="true" lat="43.0464847" lon="-88.0121517">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1220" />
+    <tag k="addr:housenumber" v="1218,1220" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
@@ -1120,14 +1091,13 @@
   <node id="-431171" action="modify" visible="true" lat="43.0371237" lon="-88.0239674">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="555" />
-    <tag k="addr:postcode" v="53226-4553" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 89th Street" />
-    <tag k="addr:unit" v="2" />
-  </node>
+    </node>
   <node id="-431172" action="modify" visible="true" lat="43.0451482" lon="-88.0114918">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1159" />
+    <tag k="addr:housenumber" v="1157,1159" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Kavanaugh Place" />
@@ -1169,7 +1139,7 @@
   </node>
   <node id="-431178" action="modify" visible="true" lat="43.046629" lon="-88.017288">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1227,1227A" />
+    <tag k="addr:housenumber" v="1227A" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Elm Lawn Street" />
@@ -1183,7 +1153,7 @@
   </node>
   <node id="-431180" action="modify" visible="true" lat="43.0439104" lon="-88.0147875">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8213" />
+    <tag k="addr:housenumber" v="8213,8215" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Gridley Avenue" />
@@ -1211,7 +1181,7 @@
   </node>
   <node id="-431184" action="modify" visible="true" lat="43.0380728" lon="-88.0298038">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9323" />
+    <tag k="addr:housenumber" v="9323,9325" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -1232,7 +1202,7 @@
   </node>
   <node id="-431187" action="modify" visible="true" lat="43.0380732" lon="-88.0296317">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9317" />
+    <tag k="addr:housenumber" v="9317,9319" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -1295,17 +1265,10 @@
   </node>
   <node id="-431196" action="modify" visible="true" lat="43.04526" lon="-88.0224282">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8733" />
+    <tag k="addr:housenumber" v="8727,8733" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
-  </node>
-  <node id="-431197" action="modify" visible="true" lat="43.04852" lon="-88.0107594">
-    <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="7820" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="Harwood Avenue" />
   </node>
   <node id="-431198" action="modify" visible="true" lat="43.0448839" lon="-88.0166343">
     <tag k="addr:city" v="Wauwatosa" />
@@ -1316,7 +1279,7 @@
   </node>
   <node id="-431199" action="modify" visible="true" lat="43.0381054" lon="-88.0256231">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9025" />
+    <tag k="addr:housenumber" v="9025,9027" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -1331,11 +1294,10 @@
   <node id="-431201" action="modify" visible="true" lat="43.038077" lon="-88.0279728">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="9215" />
-    <tag k="addr:postcode" v="53226-3521" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
-    <tag k="addr:unit" v="4" />
-  </node>
+    </node>
   <node id="-431202" action="modify" visible="true" lat="43.036521" lon="-88.0227441">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="8830" />
@@ -1346,11 +1308,10 @@
   <node id="-431203" action="modify" visible="true" lat="43.036233" lon="-88.0282279">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="9216" />
-    <tag k="addr:postcode" v="53226-4407" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Blue Mound Road" />
-    <tag k="addr:unit" v="5" />
-  </node>
+    </node>
   <node id="-431204" action="modify" visible="true" lat="43.037326" lon="-88.0289718">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="567" />
@@ -1382,19 +1343,17 @@
   <node id="-431208" action="modify" visible="true" lat="43.0364701" lon="-88.024392">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="524" />
-    <tag k="addr:postcode" v="53226-4558" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 90th Street" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431209" action="modify" visible="true" lat="43.0417115" lon="-88.014439">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="925" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431210" action="modify" visible="true" lat="43.0373278" lon="-88.0263827">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="9111" />
@@ -1426,7 +1385,7 @@
   </node>
   <node id="-431214" action="modify" visible="true" lat="43.0472975" lon="-88.0173071">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1261" />
+    <tag k="addr:housenumber" v="1261,1263" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Elm Lawn Street" />
@@ -1461,7 +1420,7 @@
   </node>
   <node id="-431219" action="modify" visible="true" lat="43.0429814" lon="-88.0171214">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8355" />
+    <tag k="addr:housenumber" v="8353,8355" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Portland Avenue" />
@@ -1615,7 +1574,7 @@
   </node>
   <node id="-431241" action="modify" visible="true" lat="43.0435218" lon="-88.0147425">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8208" />
+    <tag k="addr:housenumber" v="8206,8208" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Portland Avenue" />
@@ -1651,7 +1610,7 @@
   </node>
   <node id="-431246" action="modify" visible="true" lat="43.0468382" lon="-88.0173088">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1239" />
+    <tag k="addr:housenumber" v="1239,1241" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Elm Lawn Street" />
@@ -1673,29 +1632,20 @@
   <node id="-431249" action="modify" visible="true" lat="43.0380775" lon="-88.0277147">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="9203" />
-    <tag k="addr:postcode" v="53226-3521" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
-    <tag k="addr:unit" v="4" />
-  </node>
+    </node>
   <node id="-431250" action="modify" visible="true" lat="43.0466308" lon="-88.0217278">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8700" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431251" action="modify" visible="true" lat="43.0479221" lon="-88.0100357">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1249" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="Dewey Avenue" />
-  </node>
-  <node id="-431252" action="modify" visible="true" lat="43.0473319" lon="-88.0090745">
-    <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1236" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Dewey Avenue" />
@@ -1706,8 +1656,7 @@
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431254" action="modify" visible="true" lat="43.0463685" lon="-88.0100979">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1215" />
@@ -1731,11 +1680,10 @@
   <node id="-431257" action="modify" visible="true" lat="43.0377799" lon="-88.0239735">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="627" />
-    <tag k="addr:postcode" v="53226-4555" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 89th Street" />
-    <tag k="addr:unit" v="3" />
-  </node>
+    </node>
   <node id="-431258" action="modify" visible="true" lat="43.0439348" lon="-88.0136176">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1075" />
@@ -1766,7 +1714,7 @@
   </node>
   <node id="-431262" action="modify" visible="true" lat="43.0470578" lon="-88.017308">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1251" />
+    <tag k="addr:housenumber" v="1249,1251" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Elm Lawn Street" />
@@ -1837,7 +1785,7 @@
   </node>
   <node id="-431272" action="modify" visible="true" lat="43.0466556" lon="-88.0171724">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1229" />
+    <tag k="addr:housenumber" v="1227,1229" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Elm Lawn Street" />
@@ -1862,8 +1810,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
-    <tag k="addr:unit" v="3" />
-  </node>
+    </node>
   <node id="-431276" action="modify" visible="true" lat="43.044509" lon="-88.0127624">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1120" />
@@ -1905,8 +1852,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431282" action="modify" visible="true" lat="43.0457844" lon="-88.0122267">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1186A" />
@@ -1938,14 +1884,13 @@
   <node id="-431286" action="modify" visible="true" lat="43.0374517" lon="-88.0239705">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="611" />
-    <tag k="addr:postcode" v="53226-4555" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 89th Street" />
-    <tag k="addr:unit" v="2" />
-  </node>
+    </node>
   <node id="-431287" action="modify" visible="true" lat="43.0454744" lon="-88.0158705">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1169" />
+    <tag k="addr:housenumber" v="1167,1169" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Robertson Street" />
@@ -1973,7 +1918,7 @@
   </node>
   <node id="-431291" action="modify" visible="true" lat="43.0455055" lon="-88.0123016">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1172" />
+    <tag k="addr:housenumber" v="1170,1172" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
@@ -1981,14 +1926,13 @@
   <node id="-431292" action="modify" visible="true" lat="43.0360314" lon="-88.0299254">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="9320" />
-    <tag k="addr:postcode" v="53226-4449" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Blue Mound Road" />
-    <tag k="addr:unit" v="3" />
-  </node>
+    </node>
   <node id="-431293" action="modify" visible="true" lat="43.0443147" lon="-88.0164537">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8330" />
+    <tag k="addr:housenumber" v="8328,8330" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Gridley Avenue" />
@@ -2125,8 +2069,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Bluemound Road" />
-    <tag k="addr:unit" v="211" />
-  </node>
+    </node>
   <node id="-431313" action="modify" visible="true" lat="43.0469544" lon="-88.0199363">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1243" />
@@ -2137,11 +2080,10 @@
   <node id="-431314" action="modify" visible="true" lat="43.0368914" lon="-88.0239652">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="541" />
-    <tag k="addr:postcode" v="53226-4553" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 89th Street" />
-    <tag k="addr:unit" v="8" />
-  </node>
+    </node>
   <node id="-431315" action="modify" visible="true" lat="43.0408289" lon="-88.0163587">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8317" />
@@ -2162,16 +2104,14 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Harwood Avenue" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431318" action="modify" visible="true" lat="43.0400686" lon="-88.0150753">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="815" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431319" action="modify" visible="true" lat="43.0409831" lon="-88.0229631">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8810" />
@@ -2252,11 +2192,10 @@
   <node id="-431330" action="modify" visible="true" lat="43.0376763" lon="-88.0244005">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="618" />
-    <tag k="addr:postcode" v="53226-4560" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 90th Street" />
-    <tag k="addr:unit" v="6" />
-  </node>
+    </node>
   <node id="-431331" action="modify" visible="true" lat="43.036247" lon="-88.0204126">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8616" />
@@ -2270,8 +2209,7 @@
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Harwood Avenue" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431333" action="modify" visible="true" lat="43.0389653" lon="-88.0165381">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="711" />
@@ -2394,7 +2332,7 @@
   </node>
   <node id="-431350" action="modify" visible="true" lat="43.0462252" lon="-88.0121488">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1206" />
+    <tag k="addr:housenumber" v="1204,1206" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
@@ -2503,8 +2441,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-    <tag k="addr:unit" v="4" />
-  </node>
+    </node>
   <node id="-431366" action="modify" visible="true" lat="43.0376767" lon="-88.0197714">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="613" />
@@ -2514,7 +2451,7 @@
   </node>
   <node id="-431367" action="modify" visible="true" lat="43.0472408" lon="-88.0109373">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1254" />
+    <tag k="addr:housenumber" v="1252,1254" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Kavanaugh Place" />
@@ -2535,7 +2472,7 @@
   </node>
   <node id="-431370" action="modify" visible="true" lat="43.0453031" lon="-88.0152163">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8220" />
+    <tag k="addr:housenumber" v="8220,8222" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Red Arrow Court" />
@@ -2570,8 +2507,8 @@
   </node>
   <node id="-431375" action="modify" visible="true" lat="43.0381552" lon="-88.0304155">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9405" />
-    <tag k="addr:postcode" v="53226-3525" />
+    <tag k="addr:housenumber" v="9401,9403,9405" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
   </node>
@@ -2581,8 +2518,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Harwood Avenue" />
-    <tag k="addr:unit" v="210" />
-  </node>
+    </node>
   <node id="-431377" action="modify" visible="true" lat="43.0467075" lon="-88.0192246">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1234" />
@@ -2683,7 +2619,7 @@
   </node>
   <node id="-431391" action="modify" visible="true" lat="43.0443202" lon="-88.0161358">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8318" />
+    <tag k="addr:housenumber" v="8318,8320" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Gridley Avenue" />
@@ -2704,7 +2640,7 @@
   </node>
   <node id="-431394" action="modify" visible="true" lat="43.04576" lon="-88.016115">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8319" />
+    <tag k="addr:housenumber" v="8317,8319" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
@@ -2753,7 +2689,7 @@
   </node>
   <node id="-431401" action="modify" visible="true" lat="43.0429976" lon="-88.016295">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8327" />
+    <tag k="addr:housenumber" v="8325,8327" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Portland Avenue" />
@@ -2785,8 +2721,7 @@
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431406" action="modify" visible="true" lat="43.0365236" lon="-88.0206572">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="520" />
@@ -2824,17 +2759,10 @@
   </node>
   <node id="-431411" action="modify" visible="true" lat="43.0429703" lon="-88.0139162">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1027" />
+    <tag k="addr:housenumber" v="1025,1027" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-  </node>
-  <node id="-431412" action="modify" visible="true" lat="43.0465692" lon="-88.0160259">
-    <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8138" />
-    <tag k="addr:postcode" v="53226" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="Harwood Avenue" />
   </node>
   <node id="-431413" action="modify" visible="true" lat="43.0441666" lon="-88.0128197">
     <tag k="addr:city" v="Wauwatosa" />
@@ -2852,7 +2780,7 @@
   </node>
   <node id="-431415" action="modify" visible="true" lat="43.0443022" lon="-88.0171736">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8356" />
+    <tag k="addr:housenumber" v="8354,8356" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Gridley Avenue" />
@@ -2965,14 +2893,13 @@
   <node id="-431431" action="modify" visible="true" lat="43.0366718" lon="-88.0243934">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="532" />
-    <tag k="addr:postcode" v="53226-4558" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 90th Street" />
-    <tag k="addr:unit" v="3" />
-  </node>
+    </node>
   <node id="-431432" action="modify" visible="true" lat="43.045776" lon="-88.0171143">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8351" />
+    <tag k="addr:housenumber" v="8351,8353" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
@@ -3091,7 +3018,7 @@
   </node>
   <node id="-431449" action="modify" visible="true" lat="43.0454114" lon="-88.0130508">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1163" />
+    <tag k="addr:housenumber" v="1161,1163" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
@@ -3109,8 +3036,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-    <tag k="addr:unit" v="4" />
-  </node>
+    </node>
   <node id="-431452" action="modify" visible="true" lat="43.0366637" lon="-88.0284469">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="534" />
@@ -3134,7 +3060,7 @@
   </node>
   <node id="-431455" action="modify" visible="true" lat="43.0457246" lon="-88.0172727">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8359" />
+    <tag k="addr:housenumber" v="8357,8359" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
@@ -3148,12 +3074,11 @@
   </node>
   <node id="-431457" action="modify" visible="true" lat="43.042144" lon="-88.0134795">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="950" />
+    <tag k="addr:housenumber" v="8023" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="North Glenview Avenue" />
-    <tag k="addr:unit" v="6" />
-  </node>
+    <tag k="addr:street" v="Currie Avenue" />
+    </node>
   <node id="-431458" action="modify" visible="true" lat="43.0370377" lon="-88.0250077">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="551" />
@@ -3174,13 +3099,6 @@
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 90th Street" />
-  </node>
-  <node id="-431461" action="modify" visible="true" lat="43.0468956" lon="-88.0146236">
-    <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8108" />
-    <tag k="addr:postcode" v="53226" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="Harwood Avenue" />
   </node>
   <node id="-431462" action="modify" visible="true" lat="43.0408371" lon="-88.0249653">
     <tag k="addr:city" v="Wauwatosa" />
@@ -3212,7 +3130,7 @@
   </node>
   <node id="-431466" action="modify" visible="true" lat="43.0358723" lon="-88.0310288">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9424" />
+    <tag k="addr:housenumber" v="9424,9426" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Blue Mound Road" />
@@ -3265,8 +3183,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-    <tag k="addr:unit" v="3" />
-  </node>
+    </node>
   <node id="-431474" action="modify" visible="true" lat="43.0442669" lon="-88.0158639">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8308" />
@@ -3304,14 +3221,14 @@
   </node>
   <node id="-431479" action="modify" visible="true" lat="43.0462402" lon="-88.0146146">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8207" />
+    <tag k="addr:housenumber" v="8205,8207" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Harwood Avenue" />
   </node>
   <node id="-431480" action="modify" visible="true" lat="43.0380724" lon="-88.0299768">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9329" />
+    <tag k="addr:housenumber" v="9329,9331" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -3336,8 +3253,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Harwood Avenue" />
-    <tag k="addr:unit" v="5" />
-  </node>
+    </node>
   <node id="-431484" action="modify" visible="true" lat="43.0462489" lon="-88.0115664">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1207" />
@@ -3389,14 +3305,14 @@
   </node>
   <node id="-431491" action="modify" visible="true" lat="43.0452549" lon="-88.013988">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8106" />
+    <tag k="addr:housenumber" v="8104,8106" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Red Arrow Court" />
   </node>
   <node id="-431492" action="modify" visible="true" lat="43.0446433" lon="-88.013332">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1125" />
+    <tag k="addr:housenumber" v="1123,1125" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
@@ -3467,11 +3383,10 @@
   <node id="-431502" action="modify" visible="true" lat="43.0379087" lon="-88.0244021">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="630" />
-    <tag k="addr:postcode" v="53226-4560" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 90th Street" />
-    <tag k="addr:unit" v="2" />
-  </node>
+    </node>
   <node id="-431503" action="modify" visible="true" lat="43.046974" lon="-88.0192384">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1244" />
@@ -3492,13 +3407,6 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-  </node>
-  <node id="-431506" action="modify" visible="true" lat="43.0386879" lon="-88.0264791">
-    <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9200" />
-    <tag k="addr:postcode" v="53226" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="West Wisconsin Avenue" />
   </node>
   <node id="-431507" action="modify" visible="true" lat="43.0421574" lon="-88.0165618">
     <tag k="addr:city" v="Wauwatosa" />
@@ -3555,8 +3463,7 @@
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431515" action="modify" visible="true" lat="43.0426011" lon="-88.0141015">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1007" />
@@ -3580,7 +3487,7 @@
   </node>
   <node id="-431518" action="modify" visible="true" lat="43.0363623" lon="-88.016833">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8330,8330A" />
+    <tag k="addr:housenumber" v="8330A" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Bluemound Road" />
@@ -3588,11 +3495,10 @@
   <node id="-431519" action="modify" visible="true" lat="43.037944" lon="-88.0239751">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="635" />
-    <tag k="addr:postcode" v="53226-4555" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 89th Street" />
-    <tag k="addr:unit" v="3" />
-  </node>
+    </node>
   <node id="-431520" action="modify" visible="true" lat="43.0381006" lon="-88.0177934">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="636" />
@@ -3616,10 +3522,10 @@
   </node>
   <node id="-431523" action="modify" visible="true" lat="43.0423261" lon="-88.0142031">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="955" />
+    <tag k="addr:housenumber" v="8111" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="North Glenview Avenue" />
+    <tag k="addr:street" v="Currie Avenue" />
   </node>
   <node id="-431524" action="modify" visible="true" lat="43.0461901" lon="-88.0189755">
     <tag k="addr:city" v="Wauwatosa" />
@@ -3627,12 +3533,11 @@
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431525" action="modify" visible="true" lat="43.0360068" lon="-88.0293361">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9302" />
-    <tag k="addr:postcode" v="53226-4449" />
+    <tag k="addr:housenumber" v="9300,9302" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Blue Mound Road" />
   </node>
@@ -3685,32 +3590,17 @@
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
   </node>
-  <node id="-431533" action="modify" visible="true" lat="43.0365871" lon="-88.0212163">
-    <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="525" />
-    <tag k="addr:postcode" v="53226" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="Maywood Avenue" />
-  </node>
   <node id="-431534" action="modify" visible="true" lat="43.0412163" lon="-88.0139058">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="906" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-    <tag k="addr:unit" v="3" />
-  </node>
-  <node id="-431535" action="modify" visible="true" lat="43.0473674" lon="-88.013199">
-    <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8008" />
-    <tag k="addr:postcode" v="53226" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="Harwood Avenue" />
-  </node>
+    </node>
   <node id="-431536" action="modify" visible="true" lat="43.0381392" lon="-88.0249535">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9005" />
-    <tag k="addr:postcode" v="53226-3517" />
+    <tag k="addr:housenumber" v="9001,9003,9005" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
   </node>
@@ -3772,7 +3662,7 @@
   </node>
   <node id="-431545" action="modify" visible="true" lat="43.0443102" lon="-88.0167155">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8340" />
+    <tag k="addr:housenumber" v="8338,8340" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Gridley Avenue" />
@@ -3801,11 +3691,10 @@
   <node id="-431549" action="modify" visible="true" lat="43.0381287" lon="-88.0274606">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="9155" />
-    <tag k="addr:postcode" v="53226-3519" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
-    <tag k="addr:unit" v="2" />
-  </node>
+    </node>
   <node id="-431550" action="modify" visible="true" lat="43.0429599" lon="-88.0130085">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8025" />
@@ -3836,7 +3725,7 @@
   </node>
   <node id="-431554" action="modify" visible="true" lat="43.047205" lon="-88.011577">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1255" />
+    <tag k="addr:housenumber" v="1253,1255" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Kavanaugh Place" />
@@ -3846,13 +3735,6 @@
     <tag k="addr:housenumber" v="9101" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Doyne Avenue" />
-  </node>
-  <node id="-431556" action="modify" visible="true" lat="43.0484592" lon="-88.0109921">
-    <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="7830" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="Harwood Avenue" />
   </node>
   <node id="-431557" action="modify" visible="true" lat="43.0397209" lon="-88.0165642">
     <tag k="addr:city" v="Wauwatosa" />
@@ -3898,14 +3780,14 @@
   </node>
   <node id="-431563" action="modify" visible="true" lat="43.0381297" lon="-88.0254011">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9019" />
+    <tag k="addr:housenumber" v="9019,9021" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
   </node>
   <node id="-431564" action="modify" visible="true" lat="43.0453116" lon="-88.0146552">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8128" />
+    <tag k="addr:housenumber" v="8126,8128" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Red Arrow Court" />
@@ -3916,8 +3798,7 @@
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431566" action="modify" visible="true" lat="43.0468394" lon="-88.0192353">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1236" />
@@ -3934,7 +3815,7 @@
   </node>
   <node id="-431568" action="modify" visible="true" lat="43.0431278" lon="-88.0138372">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8103" />
+    <tag k="addr:housenumber" v="8101,8103" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Portland Avenue" />
@@ -3952,21 +3833,13 @@
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431571" action="modify" visible="true" lat="43.045171" lon="-88.0172013">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1149" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Elm Lawn Street" />
-  </node>
-  <node id="-431572" action="modify" visible="true" lat="43.0373989" lon="-88.0305544">
-    <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="609" />
-    <tag k="addr:postcode" v="53226" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="North 94th Street" />
   </node>
   <node id="-431573" action="modify" visible="true" lat="43.0435104" lon="-88.0153315">
     <tag k="addr:city" v="Wauwatosa" />
@@ -3998,7 +3871,7 @@
   </node>
   <node id="-431577" action="modify" visible="true" lat="43.0453286" lon="-88.0135332">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8024" />
+    <tag k="addr:housenumber" v="8022,8024" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Red Arrow Court" />
@@ -4012,15 +3885,14 @@
   </node>
   <node id="-431579" action="modify" visible="true" lat="43.0361901" lon="-88.0239557">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="8908" />
-    <tag k="addr:postcode" v="53226-4568" />
+    <tag k="addr:housenumber" v="8904,8908" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Blue Mound Road" />
-    <tag k="addr:unit" v="4" />
-  </node>
+    </node>
   <node id="-431580" action="modify" visible="true" lat="43.0404467" lon="-88.0161945">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="839" />
+    <tag k="addr:housenumber" v="839,841" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Robertson Street" />
@@ -4042,11 +3914,10 @@
   <node id="-431583" action="modify" visible="true" lat="43.0369589" lon="-88.0243954">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="540" />
-    <tag k="addr:postcode" v="53226-4558" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 90th Street" />
-    <tag k="addr:unit" v="5" />
-  </node>
+    </node>
   <node id="-431584" action="modify" visible="true" lat="43.04021" lon="-88.0251485">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="850" />
@@ -4056,7 +3927,7 @@
   </node>
   <node id="-431585" action="modify" visible="true" lat="43.0405804" lon="-88.014146">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="844" />
+    <tag k="addr:housenumber" v="844,846" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
@@ -4084,7 +3955,7 @@
   </node>
   <node id="-431589" action="modify" visible="true" lat="43.0380894" lon="-88.0269688">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9137" />
+    <tag k="addr:housenumber" v="9137,9139" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -4112,7 +3983,7 @@
   </node>
   <node id="-431593" action="modify" visible="true" lat="43.0471674" lon="-88.0173076">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1257" />
+    <tag k="addr:housenumber" v="1255,1257" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Elm Lawn Street" />
@@ -4147,7 +4018,7 @@
   </node>
   <node id="-431598" action="modify" visible="true" lat="43.0363278" lon="-88.0291724">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="519" />
+    <tag k="addr:housenumber" v="517,519" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 93rd Street" />
@@ -4231,7 +4102,7 @@
   </node>
   <node id="-431610" action="modify" visible="true" lat="43.0473939" lon="-88.0134171">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8020" />
+    <tag k="addr:housenumber" v="8020,8022" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Harwood Avenue" />
@@ -4252,7 +4123,7 @@
   </node>
   <node id="-431613" action="modify" visible="true" lat="43.046948" lon="-88.0173084">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1245" />
+    <tag k="addr:housenumber" v="1243,1245" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Elm Lawn Street" />
@@ -4295,11 +4166,10 @@
   <node id="-431619" action="modify" visible="true" lat="43.0374785" lon="-88.0244696">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="608" />
-    <tag k="addr:postcode" v="53226-4560" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 90th Street" />
-    <tag k="addr:unit" v="4" />
-  </node>
+    </node>
   <node id="-431620" action="modify" visible="true" lat="43.0490346" lon="-88.0091576">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="7734A" />
@@ -4323,7 +4193,7 @@
   </node>
   <node id="-431623" action="modify" visible="true" lat="43.0447978" lon="-88.0132731">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1131" />
+    <tag k="addr:housenumber" v="1129,1131" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
@@ -4337,7 +4207,7 @@
   </node>
   <node id="-431625" action="modify" visible="true" lat="43.0438014" lon="-88.0172987">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8359" />
+    <tag k="addr:housenumber" v="8359,8361" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Gridley Avenue" />
@@ -4358,7 +4228,7 @@
   </node>
   <node id="-431628" action="modify" visible="true" lat="43.0408538" lon="-88.0150779">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8225" />
+    <tag k="addr:housenumber" v="8223,8225" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Avon Court" />
@@ -4383,8 +4253,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-    <tag k="addr:unit" v="3" />
-  </node>
+    </node>
   <node id="-431632" action="modify" visible="true" lat="43.0452294" lon="-88.013783">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8028" />
@@ -4408,7 +4277,7 @@
   </node>
   <node id="-431635" action="modify" visible="true" lat="43.0404367" lon="-88.014208">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="846" />
+    <tag k="addr:housenumber" v="844,846" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
@@ -4436,7 +4305,7 @@
   </node>
   <node id="-431639" action="modify" visible="true" lat="43.0486695" lon="-88.010123">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="7770" />
+    <tag k="addr:housenumber" v="7770,7772" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Harwood Avenue" />
@@ -4496,8 +4365,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Harwood Avenue" />
-    <tag k="addr:unit" v="4" />
-  </node>
+    </node>
   <node id="-431648" action="modify" visible="true" lat="43.0451749" lon="-88.0166361">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1148" />
@@ -4535,7 +4403,7 @@
   </node>
   <node id="-431653" action="modify" visible="true" lat="43.0474465" lon="-88.0117038">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="7925" />
+    <tag k="addr:housenumber" v="7923,7925" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Harwood Avenue" />
@@ -4647,14 +4515,14 @@
   </node>
   <node id="-431669" action="modify" visible="true" lat="43.0475789" lon="-88.0114546">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="7907,7907A" />
+    <tag k="addr:housenumber" v="1269" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="Harwood Avenue" />
+    <tag k="addr:street" v="Kavanaugh Place" />
   </node>
   <node id="-431670" action="modify" visible="true" lat="43.0469204" lon="-88.0120996">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1236" />
+    <tag k="addr:housenumber" v="1234,1236" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
@@ -4686,8 +4554,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-    <tag k="addr:unit" v="4" />
-  </node>
+    </node>
   <node id="-431675" action="modify" visible="true" lat="43.0442996" lon="-88.0173244">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8360" />
@@ -4701,8 +4568,7 @@
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
-    <tag k="addr:unit" v="4" />
-  </node>
+    </node>
   <node id="-431677" action="modify" visible="true" lat="43.0472674" lon="-88.0121987">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="7945" />
@@ -4719,7 +4585,7 @@
   </node>
   <node id="-431679" action="modify" visible="true" lat="43.0453053" lon="-88.0150666">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8214" />
+    <tag k="addr:housenumber" v="8212,8214" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Red Arrow Court" />
@@ -4733,7 +4599,7 @@
   </node>
   <node id="-431681" action="modify" visible="true" lat="43.0453008" lon="-88.0153659">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8226" />
+    <tag k="addr:housenumber" v="8224,8226" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Red Arrow Court" />
@@ -4772,8 +4638,7 @@
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
-    <tag k="addr:unit" v="4" />
-  </node>
+    </node>
   <node id="-431687" action="modify" visible="true" lat="43.0472797" lon="-88.0185961">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1261" />
@@ -4797,7 +4662,7 @@
   </node>
   <node id="-431690" action="modify" visible="true" lat="43.0434917" lon="-88.0162925">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8324" />
+    <tag k="addr:housenumber" v="8322,8324" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Portland Avenue" />
@@ -4812,18 +4677,10 @@
   <node id="-431692" action="modify" visible="true" lat="43.0381354" lon="-88.0251768">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="9011" />
-    <tag k="addr:postcode" v="53226-3517" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="West Wisconsin Avenue" />
-    <tag k="addr:unit" v="2" />
-  </node>
-  <node id="-431693" action="modify" visible="true" lat="43.044654" lon="-88.0243988">
-    <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="50" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="West Connell Avenue" />
-  </node>
+    <tag k="addr:street" v="West Wisconsin Avenue" />
+    </node>
   <node id="-431694" action="modify" visible="true" lat="43.0439215" lon="-88.0143231">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8137" />
@@ -4833,8 +4690,8 @@
   </node>
   <node id="-431695" action="modify" visible="true" lat="43.0380973" lon="-88.031072">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9429" />
-    <tag k="addr:postcode" v="53226-3525" />
+    <tag k="addr:housenumber" v="9425,9427,9429" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
   </node>
@@ -4861,7 +4718,7 @@
   </node>
   <node id="-431699" action="modify" visible="true" lat="43.0457219" lon="-88.0174466">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8365" />
+    <tag k="addr:housenumber" v="8363,8365" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
@@ -4924,7 +4781,7 @@
   </node>
   <node id="-431708" action="modify" visible="true" lat="43.0457924" lon="-88.0163205">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8325" />
+    <tag k="addr:housenumber" v="8323,8325" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
@@ -4938,10 +4795,10 @@
   </node>
   <node id="-431710" action="modify" visible="true" lat="43.0380969" lon="-88.0312647">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="650" />
-    <tag k="addr:postcode" v="53226-4436" />
+    <tag k="addr:housenumber" v="9437" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="North 95th Street" />
+    <tag k="addr:street" v="West Wisconsin Avenue" />
   </node>
   <node id="-431711" action="modify" visible="true" lat="43.0373959" lon="-88.0199777">
     <tag k="addr:city" v="Wauwatosa" />
@@ -4993,7 +4850,7 @@
   </node>
   <node id="-431718" action="modify" visible="true" lat="43.0467827" lon="-88.0128344">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1233" />
+    <tag k="addr:housenumber" v="1231,1233" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
@@ -5021,7 +4878,7 @@
   </node>
   <node id="-431722" action="modify" visible="true" lat="43.044748" lon="-88.0144958">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8121" />
+    <tag k="addr:housenumber" v="8121,8125" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Red Arrow Court" />
@@ -5049,7 +4906,7 @@
   </node>
   <node id="-431726" action="modify" visible="true" lat="43.0407438" lon="-88.0140184">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="852" />
+    <tag k="addr:housenumber" v="850,852" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
@@ -5077,14 +4934,14 @@
   </node>
   <node id="-431730" action="modify" visible="true" lat="43.0442176" lon="-88.0124639">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8012" />
+    <tag k="addr:housenumber" v="8010,8012" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Gridley Avenue" />
   </node>
   <node id="-431731" action="modify" visible="true" lat="43.0434328" lon="-88.0165167">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8332" />
+    <tag k="addr:housenumber" v="8330,8332" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Portland Avenue" />
@@ -5098,7 +4955,7 @@
   </node>
   <node id="-431733" action="modify" visible="true" lat="43.0358478" lon="-88.0312285">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="500" />
+    <tag k="addr:housenumber" v="500,502" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 95th Street" />
@@ -5113,11 +4970,10 @@
   <node id="-431735" action="modify" visible="true" lat="43.0376157" lon="-88.023972">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="619" />
-    <tag k="addr:postcode" v="53226-4555" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 89th Street" />
-    <tag k="addr:unit" v="3" />
-  </node>
+    </node>
   <node id="-431736" action="modify" visible="true" lat="43.0477091" lon="-88.0133919">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1285" />
@@ -5215,8 +5071,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431750" action="modify" visible="true" lat="43.0362603" lon="-88.0196357">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="506" />
@@ -5255,11 +5110,10 @@
   <node id="-431755" action="modify" visible="true" lat="43.0381841" lon="-88.0260707">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="9101" />
-    <tag k="addr:postcode" v="53226-3519" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-431756" action="modify" visible="true" lat="43.0443048" lon="-88.017024">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8348" />
@@ -5311,7 +5165,7 @@
   </node>
   <node id="-431763" action="modify" visible="true" lat="43.0402076" lon="-88.0163369">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="825" />
+    <tag k="addr:housenumber" v="823,825" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Robertson Street" />
@@ -5332,7 +5186,7 @@
   </node>
   <node id="-431766" action="modify" visible="true" lat="43.0412148" lon="-88.0171245">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8340" />
+    <tag k="addr:housenumber" v="8340,8342" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Avon Court" />
@@ -5381,7 +5235,7 @@
   </node>
   <node id="-431773" action="modify" visible="true" lat="43.043025" lon="-88.0148852">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8215" />
+    <tag k="addr:housenumber" v="8215,8217" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Portland Avenue" />
@@ -5416,7 +5270,7 @@
   </node>
   <node id="-431778" action="modify" visible="true" lat="43.0448932" lon="-88.0132877">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1135" />
+    <tag k="addr:housenumber" v="1135,1137" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
@@ -5451,7 +5305,7 @@
   </node>
   <node id="-431783" action="modify" visible="true" lat="43.045793" lon="-88.0165113">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8331" />
+    <tag k="addr:housenumber" v="8329,8331" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
@@ -5462,8 +5316,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Harwood Avenue" />
-    <tag k="addr:unit" v="10" />
-  </node>
+    </node>
   <node id="-431785" action="modify" visible="true" lat="43.0421877" lon="-88.0149968">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8207" />
@@ -5502,14 +5355,13 @@
   <node id="-431790" action="modify" visible="true" lat="43.0360154" lon="-88.0296763">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="9312" />
-    <tag k="addr:postcode" v="53226-4449" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Blue Mound Road" />
-    <tag k="addr:unit" v="2" />
-  </node>
+    </node>
   <node id="-431791" action="modify" visible="true" lat="43.0439157" lon="-88.0146227">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8207" />
+    <tag k="addr:housenumber" v="8207,8209" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Gridley Avenue" />
@@ -5544,14 +5396,14 @@
   </node>
   <node id="-431796" action="modify" visible="true" lat="43.0464101" lon="-88.0178147">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1214" />
+    <tag k="addr:housenumber" v="1214,1216" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 85th Street" />
   </node>
   <node id="-431797" action="modify" visible="true" lat="43.0479355" lon="-88.0129991">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1286" />
+    <tag k="addr:housenumber" v="1286,1288" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Glenview Place" />
@@ -5562,15 +5414,7 @@
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Watertown Plank Road" />
-    <tag k="addr:unit" v="1" />
-  </node>
-  <node id="-431799" action="modify" visible="true" lat="43.0362746" lon="-88.0217739">
-    <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8722" />
-    <tag k="addr:postcode" v="53226" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="West Bluemound Road" />
-  </node>
+    </node>
   <node id="-431800" action="modify" visible="true" lat="43.0463185" lon="-88.0136908">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8106" />
@@ -5608,7 +5452,7 @@
   </node>
   <node id="-431805" action="modify" visible="true" lat="43.0467284" lon="-88.0173091">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1235" />
+    <tag k="addr:housenumber" v="1233,1235" />
     <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Elm Lawn Street" />
@@ -5657,14 +5501,14 @@
   </node>
   <node id="-431812" action="modify" visible="true" lat="43.0404146" lon="-88.0171067">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="840" />
+    <tag k="addr:housenumber" v="838,840" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Windsor Court" />
   </node>
   <node id="-431813" action="modify" visible="true" lat="43.0438859" lon="-88.0168463">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8345" />
+    <tag k="addr:housenumber" v="8343,8345" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Gridley Avenue" />
@@ -5706,8 +5550,8 @@
   </node>
   <node id="-431819" action="modify" visible="true" lat="43.0380983" lon="-88.0306325">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="9415" />
-    <tag k="addr:postcode" v="53226-3525" />
+    <tag k="addr:housenumber" v="9409,9411,9413,9415" />
+    <tag k="addr:postcode" v="53226" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
   </node>
@@ -5720,7 +5564,7 @@
   </node>
   <node id="-431821" action="modify" visible="true" lat="43.0366032" lon="-87.9948431">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="517" />
+    <tag k="addr:housenumber" v="517,519" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 66th Street" />
@@ -5734,7 +5578,7 @@
   </node>
   <node id="-431823" action="modify" visible="true" lat="43.0373406" lon="-87.9872122">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="540" />
+    <tag k="addr:housenumber" v="538,540" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 60th Street" />
@@ -5783,7 +5627,7 @@
   </node>
   <node id="-431830" action="modify" visible="true" lat="43.0371043" lon="-87.9930237">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="540" />
+    <tag k="addr:housenumber" v="540,542" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 65th Street" />
@@ -5958,7 +5802,7 @@
   </node>
   <node id="-431855" action="modify" visible="true" lat="43.044235" lon="-88.012275">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8004" />
+    <tag k="addr:housenumber" v="8002,8004" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Gridley Avenue" />
@@ -5979,14 +5823,14 @@
   </node>
   <node id="-431858" action="modify" visible="true" lat="43.0394266" lon="-87.9884989">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6035" />
+    <tag k="addr:housenumber" v="6035,6037" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
   </node>
   <node id="-431859" action="modify" visible="true" lat="43.0383009" lon="-87.987214">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="628" />
+    <tag k="addr:housenumber" v="626,628" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 60th Street" />
@@ -6000,7 +5844,7 @@
   </node>
   <node id="-431861" action="modify" visible="true" lat="43.0420159" lon="-87.9954964">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6641" />
+    <tag k="addr:housenumber" v="6639,6641" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Hillside Lane" />
@@ -6084,7 +5928,7 @@
   </node>
   <node id="-431873" action="modify" visible="true" lat="43.0417081" lon="-88.0012426">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="7042" />
+    <tag k="addr:housenumber" v="7042,7044" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Aetna Court" />
@@ -6140,7 +5984,7 @@
   </node>
   <node id="-431881" action="modify" visible="true" lat="43.0372498" lon="-87.9902859">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="543" />
+    <tag k="addr:housenumber" v="541,543" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 62nd Street" />
@@ -6224,7 +6068,7 @@
   </node>
   <node id="-431893" action="modify" visible="true" lat="43.0371194" lon="-87.9937175">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="545" />
+    <tag k="addr:housenumber" v="543,545" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 65th Street" />
@@ -6245,14 +6089,14 @@
   </node>
   <node id="-431896" action="modify" visible="true" lat="43.0428412" lon="-88.0125988">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="8009" />
+    <tag k="addr:housenumber" v="8009,8011" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Portland Avenue" />
   </node>
   <node id="-431897" action="modify" visible="true" lat="43.0390236" lon="-87.9895479">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6126" />
+    <tag k="addr:housenumber" v="6124,6126" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -6329,7 +6173,7 @@
   </node>
   <node id="-431908" action="modify" visible="true" lat="43.0381913" lon="-87.9870866">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="622" />
+    <tag k="addr:housenumber" v="620,622" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 60th Street" />
@@ -6539,7 +6383,7 @@
   </node>
   <node id="-431938" action="modify" visible="true" lat="43.0433538" lon="-87.9994714">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6926" />
+    <tag k="addr:housenumber" v="6926,6928" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Terrace Court" />
@@ -6588,14 +6432,14 @@
   </node>
   <node id="-431945" action="modify" visible="true" lat="43.037531" lon="-87.9937183">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="561" />
+    <tag k="addr:housenumber" v="561,563" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 65th Street" />
   </node>
   <node id="-431946" action="modify" visible="true" lat="43.0413192" lon="-88.0022282">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="7129" />
+    <tag k="addr:housenumber" v="7127,7129" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Aetna Court" />
@@ -6672,7 +6516,7 @@
   </node>
   <node id="-431957" action="modify" visible="true" lat="43.0399339" lon="-87.9885142">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6032" />
+    <tag k="addr:housenumber" v="6030,6032" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -6805,7 +6649,7 @@
   </node>
   <node id="-431976" action="modify" visible="true" lat="43.0367174" lon="-87.9929999">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="524" />
+    <tag k="addr:housenumber" v="522,524" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 65th Street" />
@@ -6826,7 +6670,7 @@
   </node>
   <node id="-431979" action="modify" visible="true" lat="43.0368405" lon="-87.9914073">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="525" />
+    <tag k="addr:housenumber" v="523,525" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 63rd Street" />
@@ -6889,7 +6733,7 @@
   </node>
   <node id="-431988" action="modify" visible="true" lat="43.0390719" lon="-87.9848928">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5730" />
+    <tag k="addr:housenumber" v="5728,5730" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -6952,7 +6796,7 @@
   </node>
   <node id="-431997" action="modify" visible="true" lat="43.0375533" lon="-87.9872126">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="550" />
+    <tag k="addr:housenumber" v="548,550" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 60th Street" />
@@ -6987,7 +6831,7 @@
   </node>
   <node id="-432002" action="modify" visible="true" lat="43.0379214" lon="-87.985113">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5806" />
+    <tag k="addr:housenumber" v="5804,5806" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Michigan Street" />
@@ -7097,14 +6941,6 @@
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
   </node>
-  <node id="-432018" action="modify" visible="true" lat="43.0370113" lon="-87.9853999">
-    <tag k="HOUSESX" v="A" />
-    <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="520" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="North 59th Street" />
-  </node>
   <node id="-432019" action="modify" visible="true" lat="43.0425519" lon="-88.0008446">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="7030" />
@@ -7126,13 +6962,6 @@
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Maple Terrace" />
   </node>
-  <node id="-432022" action="modify" visible="true" lat="43.0392177" lon="-87.9842205">
-    <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="715" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="North Hawley Road" />
-  </node>
   <node id="-432023" action="modify" visible="true" lat="43.037836" lon="-87.9970514">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="620" />
@@ -7149,7 +6978,7 @@
   </node>
   <node id="-432025" action="modify" visible="true" lat="43.0393874" lon="-87.9846787">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5725" />
+    <tag k="addr:housenumber" v="5723,5725" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -7226,7 +7055,7 @@
   </node>
   <node id="-432036" action="modify" visible="true" lat="43.0385339" lon="-87.9889481">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6101" />
+    <tag k="addr:housenumber" v="6101,6103" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -7289,7 +7118,7 @@
   </node>
   <node id="-432045" action="modify" visible="true" lat="43.037252" lon="-87.991408">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="541" />
+    <tag k="addr:housenumber" v="541,543" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 63rd Street" />
@@ -7349,13 +7178,6 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 68th Street" />
-  </node>
-  <node id="-432054" action="modify" visible="true" lat="43.043396" lon="-87.9967197">
-    <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6750" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="Hillside Lane" />
   </node>
   <node id="-432055" action="modify" visible="true" lat="43.0394403" lon="-87.9989573">
     <tag k="addr:city" v="Wauwatosa" />
@@ -7562,15 +7384,14 @@
   </node>
   <node id="-432084" action="modify" visible="true" lat="43.036823" lon="-87.9852352">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="5820" />
-    <tag k="addr:postcode" v="53213-4226" />
+    <tag k="addr:housenumber" v="5818,5820" />
+    <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Blue Mound Road" />
   </node>
   <node id="-432085" action="modify" visible="true" lat="43.0366015" lon="-87.9939677">
-    <tag k="HOUSESX" v="B" />
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="6516" />
+    <tag k="addr:housenumber" v="6516B" />
     <tag k="addr:postcode" v="53213-4064" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Blue Mound Road" />
@@ -7588,8 +7409,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Hawley Road" />
-    <tag k="addr:unit" v="205" />
-  </node>
+    </node>
   <node id="-432088" action="modify" visible="true" lat="43.0415184" lon="-87.9842798">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="5710" />
@@ -7627,7 +7447,7 @@
   </node>
   <node id="-432093" action="modify" visible="true" lat="43.0380788" lon="-87.9925467">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="619" />
+    <tag k="addr:housenumber" v="619,621" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 64th Street" />
@@ -7715,10 +7535,10 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Hillside Lane" />
-  </node>
+  <tag k="note:addr" v="Address is shared by multiple address points" /></node>
   <node id="-432106" action="modify" visible="true" lat="43.0384796" lon="-87.9869337">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5927" />
+    <tag k="addr:housenumber" v="5927,5929" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -7760,7 +7580,7 @@
   </node>
   <node id="-432112" action="modify" visible="true" lat="43.0431773" lon="-87.9972357">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1032" />
+    <tag k="addr:housenumber" v="1032,1034" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 68th Street" />
@@ -7802,7 +7622,7 @@
   </node>
   <node id="-432118" action="modify" visible="true" lat="43.0441637" lon="-87.9988611">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6906" />
+    <tag k="addr:housenumber" v="6904,6906" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Auburn Avenue" />
@@ -7823,7 +7643,7 @@
   </node>
   <node id="-432121" action="modify" visible="true" lat="43.0385205" lon="-87.9871208">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5937" />
+    <tag k="addr:housenumber" v="5935,5937" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -7900,7 +7720,7 @@
   </node>
   <node id="-432132" action="modify" visible="true" lat="43.0399112" lon="-87.9877503">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6006" />
+    <tag k="addr:housenumber" v="6004,6006" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -8054,7 +7874,7 @@
   </node>
   <node id="-432154" action="modify" visible="true" lat="43.0393928" lon="-87.9954749">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6633" />
+    <tag k="addr:housenumber" v="6631,6633" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -8103,8 +7923,8 @@
   </node>
   <node id="-432161" action="modify" visible="true" lat="43.0367462" lon="-87.9854581">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="5826" />
-    <tag k="addr:postcode" v="53213-4226" />
+    <tag k="addr:housenumber" v="5826,5828" />
+    <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Blue Mound Road" />
   </node>
@@ -8152,8 +7972,8 @@
   </node>
   <node id="-432168" action="modify" visible="true" lat="43.0403236" lon="-87.9852921">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="831" />
-    <tag k="addr:postcode" v="53213-3201" />
+    <tag k="addr:housenumber" v="829,831" />
+    <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 58th Street" />
   </node>
@@ -8180,7 +8000,7 @@
   </node>
   <node id="-432172" action="modify" visible="true" lat="43.0375497" lon="-87.9896937">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="552" />
+    <tag k="addr:housenumber" v="552,554" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 62nd Street" />
@@ -8285,7 +8105,7 @@
   </node>
   <node id="-432187" action="modify" visible="true" lat="43.0384811" lon="-87.9856395">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5825" />
+    <tag k="addr:housenumber" v="5825,5827" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -8313,7 +8133,7 @@
   </node>
   <node id="-432191" action="modify" visible="true" lat="43.041966" lon="-88.0002349">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="965" />
+    <tag k="addr:housenumber" v="963,965" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 70th Street" />
@@ -8355,7 +8175,7 @@
   </node>
   <node id="-432197" action="modify" visible="true" lat="43.0403509" lon="-87.999694">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="830" />
+    <tag k="addr:housenumber" v="826,830,832,834" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 70th Street" />
@@ -8432,7 +8252,7 @@
   </node>
   <node id="-432208" action="modify" visible="true" lat="43.0391179" lon="-87.991468">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6312" />
+    <tag k="addr:housenumber" v="6310,6312" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -8460,7 +8280,7 @@
   </node>
   <node id="-432212" action="modify" visible="true" lat="43.0369895" lon="-87.9925471">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="533" />
+    <tag k="addr:housenumber" v="533,535" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 64th Street" />
@@ -8523,7 +8343,7 @@
   </node>
   <node id="-432221" action="modify" visible="true" lat="43.0404711" lon="-87.9871219">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="904" />
+    <tag k="addr:housenumber" v="902,904" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 60th Street" />
@@ -8628,15 +8448,15 @@
   </node>
   <node id="-432236" action="modify" visible="true" lat="43.0399117" lon="-87.9879916">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6010" />
+    <tag k="addr:housenumber" v="6010,6012" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
   </node>
   <node id="-432237" action="modify" visible="true" lat="43.0366631" lon="-87.9905167">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="6200" />
-    <tag k="addr:postcode" v="53213-4145" />
+    <tag k="addr:housenumber" v="6200,6204" />
+    <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Blue Mound Road" />
   </node>
@@ -8663,7 +8483,7 @@
   </node>
   <node id="-432241" action="modify" visible="true" lat="43.0384924" lon="-87.9943242">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6533" />
+    <tag k="addr:housenumber" v="6531,6533" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -8698,7 +8518,7 @@
   </node>
   <node id="-432246" action="modify" visible="true" lat="43.0380738" lon="-87.9907363">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="620" />
+    <tag k="addr:housenumber" v="618,620" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 63rd Street" />
@@ -8738,13 +8558,6 @@
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
   </node>
-  <node id="-432252" action="modify" visible="true" lat="43.0410234" lon="-87.987497">
-    <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="925" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="North 60th Street" />
-  </node>
   <node id="-432253" action="modify" visible="true" lat="43.0419905" lon="-88.0064815">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="947" />
@@ -8755,14 +8568,13 @@
   <node id="-432254" action="modify" visible="true" lat="43.0364031" lon="-87.993615">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="509" />
-    <tag k="addr:postcode" v="53213-4053" />
+    <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 65th Street" />
-    <tag k="addr:unit" v="4" />
-  </node>
+    </node>
   <node id="-432255" action="modify" visible="true" lat="43.0374801" lon="-87.9852996">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5813" />
+    <tag k="addr:housenumber" v="5811,5813" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Michigan Street" />
@@ -8916,7 +8728,7 @@
   </node>
   <node id="-432277" action="modify" visible="true" lat="43.0376575" lon="-87.9883705">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="558" />
+    <tag k="addr:housenumber" v="556,558" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 61st Street" />
@@ -9014,7 +8826,7 @@
   </node>
   <node id="-432291" action="modify" visible="true" lat="43.0391014" lon="-88.000099">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="7004" />
+    <tag k="addr:housenumber" v="7002,7004" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -9063,7 +8875,7 @@
   </node>
   <node id="-432298" action="modify" visible="true" lat="43.0394261" lon="-87.9882501">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6033" />
+    <tag k="addr:housenumber" v="6031,6033" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -9175,7 +8987,7 @@
   </node>
   <node id="-432314" action="modify" visible="true" lat="43.041743" lon="-87.9951162">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6619" />
+    <tag k="addr:housenumber" v="6617,6619" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Hillside Lane" />
@@ -9189,7 +9001,7 @@
   </node>
   <node id="-432316" action="modify" visible="true" lat="43.03992" lon="-87.9863829">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5906" />
+    <tag k="addr:housenumber" v="5906,5908" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -9245,7 +9057,7 @@
   </node>
   <node id="-432324" action="modify" visible="true" lat="43.0394286" lon="-87.9901785">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6203" />
+    <tag k="addr:housenumber" v="6203,6205" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -9515,8 +9327,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
-    <tag k="addr:unit" v="4" />
-  </node>
+    </node>
   <node id="-432363" action="modify" visible="true" lat="43.0357791" lon="-88.0056289">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="7424" />
@@ -9554,7 +9365,7 @@
   </node>
   <node id="-432368" action="modify" visible="true" lat="43.0373238" lon="-87.993024">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="550" />
+    <tag k="addr:housenumber" v="550,552" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 65th Street" />
@@ -9645,12 +9456,11 @@
   </node>
   <node id="-432381" action="modify" visible="true" lat="43.038491" lon="-87.9935835">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6507" />
+    <tag k="addr:housenumber" v="6505,6507" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
-    <tag k="addr:unit" v="3" />
-  </node>
+    </node>
   <node id="-432382" action="modify" visible="true" lat="43.0378174" lon="-87.9913349">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="605" />
@@ -9660,7 +9470,7 @@
   </node>
   <node id="-432383" action="modify" visible="true" lat="43.0373892" lon="-87.9914083">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="549" />
+    <tag k="addr:housenumber" v="549,551" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 63rd Street" />
@@ -9695,7 +9505,7 @@
   </node>
   <node id="-432388" action="modify" visible="true" lat="43.0398758" lon="-87.9843564">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5708" />
+    <tag k="addr:housenumber" v="5706,5708" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -9786,7 +9596,7 @@
   </node>
   <node id="-432401" action="modify" visible="true" lat="43.0376704" lon="-87.9948631">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="571" />
+    <tag k="addr:housenumber" v="571,573" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 66th Street" />
@@ -9828,7 +9638,7 @@
   </node>
   <node id="-432407" action="modify" visible="true" lat="43.039387" lon="-87.9850154">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5803" />
+    <tag k="addr:housenumber" v="5803,5805" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -9842,21 +9652,21 @@
   </node>
   <node id="-432409" action="modify" visible="true" lat="43.0371171" lon="-87.9925449">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="541" />
+    <tag k="addr:housenumber" v="539,541" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 64th Street" />
   </node>
   <node id="-432410" action="modify" visible="true" lat="43.0390509" lon="-87.9918669">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6322" />
+    <tag k="addr:housenumber" v="6322,6324" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
   </node>
   <node id="-432411" action="modify" visible="true" lat="43.0441719" lon="-87.9976152">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6802" />
+    <tag k="addr:housenumber" v="6800,6802" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Auburn Avenue" />
@@ -9870,7 +9680,7 @@
   </node>
   <node id="-432413" action="modify" visible="true" lat="43.0367101" lon="-87.9948612">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="525" />
+    <tag k="addr:housenumber" v="523,525" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 66th Street" />
@@ -9933,7 +9743,7 @@
   </node>
   <node id="-432422" action="modify" visible="true" lat="43.0399677" lon="-87.9995056">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6930" />
+    <tag k="addr:housenumber" v="6930,6932" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -10066,7 +9876,7 @@
   </node>
   <node id="-432441" action="modify" visible="true" lat="43.0365822" lon="-87.989367">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6116" />
+    <tag k="addr:housenumber" v="6110,6116,6118" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Bluemound Road" />
@@ -10080,7 +9890,7 @@
   </node>
   <node id="-432443" action="modify" visible="true" lat="43.0390549" lon="-87.9905384">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6220" />
+    <tag k="addr:housenumber" v="6218,6220" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -10168,8 +9978,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Hawley Road" />
-    <tag k="addr:unit" v="104" />
-  </node>
+    </node>
   <node id="-432456" action="modify" visible="true" lat="43.0399376" lon="-88.0117173">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="808" />
@@ -10193,14 +10002,14 @@
   </node>
   <node id="-432459" action="modify" visible="true" lat="43.0375264" lon="-87.9914085">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="557" />
+    <tag k="addr:housenumber" v="555,557" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 63rd Street" />
   </node>
   <node id="-432460" action="modify" visible="true" lat="43.0438253" lon="-87.9989695">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6911" />
+    <tag k="addr:housenumber" v="6911,6913" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Auburn Avenue" />
@@ -10242,7 +10051,7 @@
   </node>
   <node id="-432466" action="modify" visible="true" lat="43.0367225" lon="-87.9941768">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="526" />
+    <tag k="addr:housenumber" v="524,526" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 66th Street" />
@@ -10253,8 +10062,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 68th Street" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-432468" action="modify" visible="true" lat="43.0428707" lon="-88.0058745">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="7436" />
@@ -10306,15 +10114,15 @@
   </node>
   <node id="-432475" action="modify" visible="true" lat="43.0371135" lon="-87.9907345">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="534" />
+    <tag k="addr:housenumber" v="534,536" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 63rd Street" />
   </node>
   <node id="-432476" action="modify" visible="true" lat="43.0418705" lon="-87.9835396">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="975" />
-    <tag k="addr:postcode" v="53213-3274" />
+    <tag k="addr:housenumber" v="973,975" />
+    <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Hawley Road" />
   </node>
@@ -10348,17 +10156,10 @@
   </node>
   <node id="-432481" action="modify" visible="true" lat="43.03741" lon="-87.9863009">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="539" />
+    <tag k="addr:housenumber" v="537,539" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 59th Street" />
-  </node>
-  <node id="-432482" action="modify" visible="true" lat="43.0442236" lon="-87.9967694">
-    <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6501" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="Hillside Lane" />
   </node>
   <node id="-432483" action="modify" visible="true" lat="43.0409168" lon="-88.0033056">
     <tag k="addr:city" v="Wauwatosa" />
@@ -10404,7 +10205,7 @@
   </node>
   <node id="-432489" action="modify" visible="true" lat="43.0421008" lon="-87.9956433">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6643" />
+    <tag k="addr:housenumber" v="6643,6645" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Hillside Lane" />
@@ -10446,7 +10247,7 @@
   </node>
   <node id="-432495" action="modify" visible="true" lat="43.0380805" lon="-87.9914095">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="619" />
+    <tag k="addr:housenumber" v="619,621" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 63rd Street" />
@@ -10474,7 +10275,7 @@
   </node>
   <node id="-432499" action="modify" visible="true" lat="43.0423286" lon="-87.9959539">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6661" />
+    <tag k="addr:housenumber" v="6659,6661" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Hillside Lane" />
@@ -10495,7 +10296,7 @@
   </node>
   <node id="-432502" action="modify" visible="true" lat="43.0375251" lon="-87.9907353">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="556" />
+    <tag k="addr:housenumber" v="556,558" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 63rd Street" />
@@ -10584,21 +10385,13 @@
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 63rd Street" />
   </node>
-  <node id="-432515" action="modify" visible="true" lat="43.0445727" lon="-87.9997338">
-    <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6939" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="Harvey Avenue" />
-  </node>
   <node id="-432516" action="modify" visible="true" lat="43.0406788" lon="-87.983982">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="907" />
-    <tag k="addr:postcode" v="53213-3221" />
+    <tag k="addr:housenumber" v="901,903,905,907" />
+    <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Hawley Road" />
-    <tag k="addr:unit" v="4" />
-  </node>
+    </node>
   <node id="-432517" action="modify" visible="true" lat="43.038394" lon="-88.0144022">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8129" />
@@ -10682,12 +10475,11 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 68th Street" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-432529" action="modify" visible="true" lat="43.0368154" lon="-87.9864724">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="5930" />
-    <tag k="addr:postcode" v="53213-4228" />
+    <tag k="addr:housenumber" v="5910,5930" />
+    <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Blue Mound Road" />
   </node>
@@ -10887,13 +10679,6 @@
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 64th Street" />
   </node>
-  <node id="-432558" action="modify" visible="true" lat="43.0404858" lon="-87.9926989">
-    <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6501AD" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="Hillside Lane" />
-  </node>
   <node id="-432559" action="modify" visible="true" lat="43.0390154" lon="-88.0135181">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="8042" />
@@ -10987,7 +10772,7 @@
   </node>
   <node id="-432572" action="modify" visible="true" lat="43.0416132" lon="-87.9972533">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="948" />
+    <tag k="addr:housenumber" v="946,948" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 68th Street" />
@@ -11001,7 +10786,7 @@
   </node>
   <node id="-432574" action="modify" visible="true" lat="43.0369777" lon="-87.9914075">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="531" />
+    <tag k="addr:housenumber" v="531,533" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 63rd Street" />
@@ -11057,7 +10842,7 @@
   </node>
   <node id="-432582" action="modify" visible="true" lat="43.0408923" lon="-88.0001079">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="7004" />
+    <tag k="addr:housenumber" v="7004,7006" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Cedar Street" />
@@ -11225,7 +11010,7 @@
   </node>
   <node id="-432606" action="modify" visible="true" lat="43.0390721" lon="-87.9847058">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5722" />
+    <tag k="addr:housenumber" v="5720,5722" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -11295,7 +11080,7 @@
   </node>
   <node id="-432616" action="modify" visible="true" lat="43.0402706" lon="-87.9953367">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="822" />
+    <tag k="addr:housenumber" v="822,824" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 67th Street" />
@@ -11330,12 +11115,11 @@
   </node>
   <node id="-432621" action="modify" visible="true" lat="43.0404759" lon="-87.9839924">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="839" />
-    <tag k="addr:postcode" v="53213-3219" />
+    <tag k="addr:housenumber" v="833,835,837,839" />
+    <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Hawley Road" />
-    <tag k="addr:unit" v="2" />
-  </node>
+    </node>
   <node id="-432622" action="modify" visible="true" lat="43.0399218" lon="-88.0064779">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="7510" />
@@ -11345,7 +11129,7 @@
   </node>
   <node id="-432623" action="modify" visible="true" lat="43.0368437" lon="-87.9930568">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="528" />
+    <tag k="addr:housenumber" v="526,528" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 65th Street" />
@@ -11401,7 +11185,7 @@
   </node>
   <node id="-432631" action="modify" visible="true" lat="43.0369785" lon="-87.9918563">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="534" />
+    <tag k="addr:housenumber" v="532,534" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 64th Street" />
@@ -11569,7 +11353,7 @@
   </node>
   <node id="-432655" action="modify" visible="true" lat="43.0399664" lon="-87.9989445">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6912" />
+    <tag k="addr:housenumber" v="6910,6912" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -11618,7 +11402,7 @@
   </node>
   <node id="-432662" action="modify" visible="true" lat="43.039887" lon="-87.9852952">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5812" />
+    <tag k="addr:housenumber" v="5810,5812" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -11706,8 +11490,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
-    <tag k="addr:unit" v="103" />
-  </node>
+    </node>
   <node id="-432675" action="modify" visible="true" lat="43.0391327" lon="-88.0076018">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="7606" />
@@ -11878,7 +11661,7 @@
   </node>
   <node id="-432699" action="modify" visible="true" lat="43.0371126" lon="-87.9902857">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="535" />
+    <tag k="addr:housenumber" v="533,535" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 62nd Street" />
@@ -11899,7 +11682,7 @@
   </node>
   <node id="-432702" action="modify" visible="true" lat="43.0390614" lon="-87.994146">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6524" />
+    <tag k="addr:housenumber" v="6524,6526" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -11969,7 +11752,7 @@
   </node>
   <node id="-432712" action="modify" visible="true" lat="43.0399124" lon="-87.9883535">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6026" />
+    <tag k="addr:housenumber" v="6026,6028" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -12046,7 +11829,7 @@
   </node>
   <node id="-432723" action="modify" visible="true" lat="43.0390974" lon="-87.9983799">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6826" />
+    <tag k="addr:housenumber" v="6826,6828" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -12109,7 +11892,7 @@
   </node>
   <node id="-432732" action="modify" visible="true" lat="43.039854" lon="-88.0138921">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="838" />
+    <tag k="addr:housenumber" v="740,838,844" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Glenview Avenue" />
@@ -12207,7 +11990,7 @@
   </node>
   <node id="-432746" action="modify" visible="true" lat="43.0437497" lon="-87.9997481">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6939" />
+    <tag k="addr:housenumber" v="6937,6939" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Auburn Avenue" />
@@ -12291,7 +12074,7 @@
   </node>
   <node id="-432758" action="modify" visible="true" lat="43.037535" lon="-87.984527">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="5701,5701A" />
+    <tag k="addr:housenumber" v="5701A" />
     <tag k="addr:postcode" v="53213-4243" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Michigan Street" />
@@ -12299,7 +12082,7 @@
   </node>
   <node id="-432759" action="modify" visible="true" lat="43.0391137" lon="-87.9893718">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6120" />
+    <tag k="addr:housenumber" v="6118,6120" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -12318,21 +12101,13 @@
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 68th Street" />
   </node>
-  <node id="-432762" action="modify" visible="true" lat="43.0363212" lon="-87.9948436">
-    <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="6606R" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="West Blue Mound Road" />
-  </node>
   <node id="-432763" action="modify" visible="true" lat="43.0409412" lon="-87.9840743">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="5645" />
-    <tag k="addr:postcode" v="53213-3226" />
+    <tag k="addr:housenumber" v="5613,5621,5629,5637,5645" />
+    <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Valley Forge Drive" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-432764" action="modify" visible="true" lat="43.0390805" lon="-88.0102394">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="7814" />
@@ -12363,7 +12138,7 @@
   </node>
   <node id="-432768" action="modify" visible="true" lat="43.0368473" lon="-87.9948615">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="531" />
+    <tag k="addr:housenumber" v="531,533" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 66th Street" />
@@ -12395,13 +12170,6 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Perry Court" />
-  </node>
-  <node id="-432773" action="modify" visible="true" lat="43.0389633" lon="-87.9842798">
-    <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="5704" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="West Wisconsin Avenue" />
   </node>
   <node id="-432774" action="modify" visible="true" lat="43.0401617" lon="-88.0040147">
     <tag k="addr:city" v="Wauwatosa" />
@@ -12454,7 +12222,7 @@
   </node>
   <node id="-432781" action="modify" visible="true" lat="43.039385" lon="-87.9867678">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5925" />
+    <tag k="addr:housenumber" v="5923,5925" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -12496,7 +12264,7 @@
   </node>
   <node id="-432787" action="modify" visible="true" lat="43.039034" lon="-87.9881183">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6018" />
+    <tag k="addr:housenumber" v="6018,6020" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -12552,7 +12320,7 @@
   </node>
   <node id="-432795" action="modify" visible="true" lat="43.0379042" lon="-87.9862295">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5902" />
+    <tag k="addr:housenumber" v="5900,5902" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Michigan Street" />
@@ -12741,7 +12509,7 @@
   </node>
   <node id="-432822" action="modify" visible="true" lat="43.0379595" lon="-87.9902115">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="611" />
+    <tag k="addr:housenumber" v="611,613" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 62nd Street" />
@@ -12790,12 +12558,11 @@
   </node>
   <node id="-432829" action="modify" visible="true" lat="43.0367328" lon="-87.9858328">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="5840" />
-    <tag k="addr:postcode" v="53213-0000" />
+    <tag k="addr:housenumber" v="5840,5844" />
+    <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Blue Mound Road" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-432830" action="modify" visible="true" lat="43.0365889" lon="-88.0069103">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="608" />
@@ -13008,7 +12775,7 @@
   </node>
   <node id="-432860" action="modify" visible="true" lat="43.0371957" lon="-87.9872172">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="532" />
+    <tag k="addr:housenumber" v="530,532" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 60th Street" />
@@ -13022,14 +12789,14 @@
   </node>
   <node id="-432862" action="modify" visible="true" lat="43.0390618" lon="-87.9943256">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="706" />
+    <tag k="addr:housenumber" v="704,706" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 66th Street" />
   </node>
   <node id="-432863" action="modify" visible="true" lat="43.0384894" lon="-87.9927981">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6421" />
+    <tag k="addr:housenumber" v="6419,6421" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -13050,7 +12817,7 @@
   </node>
   <node id="-432866" action="modify" visible="true" lat="43.0372588" lon="-87.9948623">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="553" />
+    <tag k="addr:housenumber" v="551,553" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 66th Street" />
@@ -13103,13 +12870,6 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Valley Forge Drive" />
-  </node>
-  <node id="-432874" action="modify" visible="true" lat="43.0424257" lon="-87.9849448">
-    <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="5510" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="West Trenton Place" />
   </node>
   <node id="-432875" action="modify" visible="true" lat="43.0421008" lon="-87.998579">
     <tag k="addr:city" v="Wauwatosa" />
@@ -13246,7 +13006,7 @@
   </node>
   <node id="-432894" action="modify" visible="true" lat="43.0393852" lon="-87.9865882">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5917" />
+    <tag k="addr:housenumber" v="5917,5919" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -13267,7 +13027,7 @@
   </node>
   <node id="-432897" action="modify" visible="true" lat="43.039088" lon="-87.9842519">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="711" />
+    <tag k="addr:housenumber" v="709,711" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Hawley Road" />
@@ -13281,7 +13041,7 @@
   </node>
   <node id="-432899" action="modify" visible="true" lat="43.0393846" lon="-87.9871269">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5939" />
+    <tag k="addr:housenumber" v="5937,5939" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -13289,11 +13049,10 @@
   <node id="-432900" action="modify" visible="true" lat="43.0404698" lon="-87.9845455">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="902" />
-    <tag k="addr:postcode" v="53213-3204" />
+    <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 58th Street" />
-    <tag k="addr:unit" v="A" />
-  </node>
+    </node>
   <node id="-432901" action="modify" visible="true" lat="43.0451613" lon="-88.010829">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="1158" />
@@ -13310,14 +13069,14 @@
   </node>
   <node id="-432903" action="modify" visible="true" lat="43.0375332" lon="-87.9948629">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="563" />
+    <tag k="addr:housenumber" v="563,565" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 66th Street" />
   </node>
   <node id="-432904" action="modify" visible="true" lat="43.0408905" lon="-87.9993223">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6922" />
+    <tag k="addr:housenumber" v="6922,6924" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Cedar Street" />
@@ -13353,11 +13112,10 @@
   <node id="-432909" action="modify" visible="true" lat="43.0369168" lon="-87.9856378">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="512" />
-    <tag k="addr:postcode" v="53213-4212" />
+    <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 59th Street" />
-    <tag k="addr:unit" v="9" />
-  </node>
+    </node>
   <node id="-432910" action="modify" visible="true" lat="43.0396891" lon="-88.0112948">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="743" />
@@ -13374,7 +13132,7 @@
   </node>
   <node id="-432912" action="modify" visible="true" lat="43.0390407" lon="-87.9897382">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6132" />
+    <tag k="addr:housenumber" v="6130,6132" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -13465,14 +13223,14 @@
   </node>
   <node id="-432925" action="modify" visible="true" lat="43.0379366" lon="-87.990736">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="608" />
+    <tag k="addr:housenumber" v="608,610" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 63rd Street" />
   </node>
   <node id="-432926" action="modify" visible="true" lat="43.0399655" lon="-87.9985704">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6838" />
+    <tag k="addr:housenumber" v="6836,6838" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -13591,7 +13349,7 @@
   </node>
   <node id="-432943" action="modify" visible="true" lat="43.039429" lon="-87.9904029">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6215" />
+    <tag k="addr:housenumber" v="6213,6215" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -13633,7 +13391,7 @@
   </node>
   <node id="-432949" action="modify" visible="true" lat="43.0384917" lon="-87.9939576">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6519" />
+    <tag k="addr:housenumber" v="6517,6519" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -13717,7 +13475,7 @@
   </node>
   <node id="-432961" action="modify" visible="true" lat="43.0373879" lon="-87.990735">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="548" />
+    <tag k="addr:housenumber" v="546,548" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 63rd Street" />
@@ -13787,7 +13545,7 @@
   </node>
   <node id="-432971" action="modify" visible="true" lat="43.039929" lon="-87.9897582">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6134" />
+    <tag k="addr:housenumber" v="6132,6134" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -13899,7 +13657,7 @@
   </node>
   <node id="-432987" action="modify" visible="true" lat="43.0385492" lon="-87.9849164">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5727" />
+    <tag k="addr:housenumber" v="5727,5729" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -14067,7 +13825,7 @@
   </node>
   <node id="-433011" action="modify" visible="true" lat="43.0371203" lon="-87.9941775">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="542" />
+    <tag k="addr:housenumber" v="542,544" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 66th Street" />
@@ -14102,14 +13860,14 @@
   </node>
   <node id="-433016" action="modify" visible="true" lat="43.0376691" lon="-87.9941786">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="570" />
+    <tag k="addr:housenumber" v="570,572" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 66th Street" />
   </node>
   <node id="-433017" action="modify" visible="true" lat="43.0369764" lon="-87.9907342">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="530" />
+    <tag k="addr:housenumber" v="528,530" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 63rd Street" />
@@ -14221,7 +13979,7 @@
   </node>
   <node id="-433033" action="modify" visible="true" lat="43.0393872" lon="-87.984847">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5727" />
+    <tag k="addr:housenumber" v="5727,5729" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -14249,7 +14007,7 @@
   </node>
   <node id="-433037" action="modify" visible="true" lat="43.0374847" lon="-87.9849234">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="5729" />
+    <tag k="addr:housenumber" v="5729,5731" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Michigan Street" />
@@ -14263,7 +14021,7 @@
   </node>
   <node id="-433039" action="modify" visible="true" lat="43.0379697" lon="-87.9924973">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="611" />
+    <tag k="addr:housenumber" v="611,613" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 64th Street" />
@@ -14319,14 +14077,14 @@
   </node>
   <node id="-433047" action="modify" visible="true" lat="43.038481" lon="-87.9885272">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6031" />
+    <tag k="addr:housenumber" v="6029,6031" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
   </node>
   <node id="-433048" action="modify" visible="true" lat="43.0394565" lon="-87.9978501">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6807,6807B" />
+    <tag k="addr:housenumber" v="6807B,6807A,6809" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -14409,10 +14167,9 @@
     <tag k="addr:street" v="Aetna Court" />
   </node>
   <node id="-433060" action="modify" visible="true" lat="43.0363823" lon="-87.9939936">
-    <tag k="HOUSESX" v="A" />
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="6516" />
-    <tag k="addr:postcode" v="53213-4064" />
+    <tag k="addr:housenumber" v="6516,6516A" />
+    <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Blue Mound Road" />
   </node>
@@ -14425,7 +14182,7 @@
   </node>
   <node id="-433062" action="modify" visible="true" lat="43.0401222" lon="-87.9873363">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="818" />
+    <tag k="addr:housenumber" v="816,818" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 60th Street" />
@@ -14467,7 +14224,7 @@
   </node>
   <node id="-433068" action="modify" visible="true" lat="43.0399716" lon="-88.0012255">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="7042" />
+    <tag k="addr:housenumber" v="7040,7042" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -14485,7 +14242,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Hillside Lane" />
-  </node>
+  <tag k="note:addr" v="Address is shared by multiple address points" /></node>
   <node id="-433071" action="modify" visible="true" lat="43.0402218" lon="-87.9913457">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="823" />
@@ -14502,17 +14259,10 @@
   </node>
   <node id="-433073" action="modify" visible="true" lat="43.0433304" lon="-87.997288">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1040" />
+    <tag k="addr:housenumber" v="1040,1042" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 68th Street" />
-  </node>
-  <node id="-433074" action="modify" visible="true" lat="43.0430561" lon="-88.0020937">
-    <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="1030" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="North 72nd Street" />
   </node>
   <node id="-433075" action="modify" visible="true" lat="43.0377971" lon="-88.0101671">
     <tag k="addr:city" v="Wauwatosa" />
@@ -14527,13 +14277,6 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 78th Street" />
-  </node>
-  <node id="-433077" action="modify" visible="true" lat="43.0414214" lon="-87.9874846">
-    <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="6009" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="West Valley Forge Drive" />
   </node>
   <node id="-433078" action="modify" visible="true" lat="43.0435878" lon="-88.0002534">
     <tag k="addr:city" v="Wauwatosa" />
@@ -14579,7 +14322,7 @@
   </node>
   <node id="-433084" action="modify" visible="true" lat="43.0372543" lon="-87.9925451">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="547" />
+    <tag k="addr:housenumber" v="547,549" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 64th Street" />
@@ -14607,7 +14350,7 @@
   </node>
   <node id="-433088" action="modify" visible="true" lat="43.0399681" lon="-87.9996923">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6938" />
+    <tag k="addr:housenumber" v="6936,6938" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -14649,14 +14392,14 @@
   </node>
   <node id="-433094" action="modify" visible="true" lat="43.0384891" lon="-87.992611">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6413" />
+    <tag k="addr:housenumber" v="6411,6413" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
   </node>
   <node id="-433095" action="modify" visible="true" lat="43.0373939" lon="-87.9889579">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="541" />
+    <tag k="addr:housenumber" v="541,543" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 61st Street" />
@@ -14698,7 +14441,7 @@
   </node>
   <node id="-433101" action="modify" visible="true" lat="43.0399137" lon="-88.0003359">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="7012" />
+    <tag k="addr:housenumber" v="7010,7012" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -14712,7 +14455,7 @@
   </node>
   <node id="-433103" action="modify" visible="true" lat="43.0390832" lon="-87.9947764">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6608" />
+    <tag k="addr:housenumber" v="6606,6608" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -14824,7 +14567,7 @@
   </node>
   <node id="-433119" action="modify" visible="true" lat="43.0393876" lon="-87.9845103">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5717" />
+    <tag k="addr:housenumber" v="5717,5719" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -14905,13 +14648,6 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="St Anne Court" />
-  </node>
-  <node id="-433131" action="modify" visible="true" lat="43.0409204" lon="-87.9875188">
-    <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="855" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="North 60th Street" />
   </node>
   <node id="-433132" action="modify" visible="true" lat="43.0408743" lon="-87.9907842">
     <tag k="addr:city" v="Wauwatosa" />
@@ -15006,7 +14742,7 @@
   </node>
   <node id="-433145" action="modify" visible="true" lat="43.0398694" lon="-87.9969279">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6736" />
+    <tag k="addr:housenumber" v="6734,6736,6738,6740,6742,6744" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -15066,13 +14802,6 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 62nd Street" />
-  </node>
-  <node id="-433154" action="modify" visible="true" lat="43.0383872" lon="-87.9844437">
-    <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="629" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="North Hawley Road" />
   </node>
   <node id="-433155" action="modify" visible="true" lat="43.0373521" lon="-88.0044936">
     <tag k="addr:city" v="Wauwatosa" />
@@ -15160,7 +14889,7 @@
   </node>
   <node id="-433167" action="modify" visible="true" lat="43.0391198" lon="-87.9924143">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6404" />
+    <tag k="addr:housenumber" v="6404,6406" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -15216,7 +14945,7 @@
   </node>
   <node id="-433175" action="modify" visible="true" lat="43.039071" lon="-87.9856409">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5824" />
+    <tag k="addr:housenumber" v="5824,5826" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -15304,11 +15033,10 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Terrace Court" />
-    <tag k="addr:unit" v="2" />
-  </node>
+    </node>
   <node id="-433188" action="modify" visible="true" lat="43.0384921" lon="-87.9941446">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6527" />
+    <tag k="addr:housenumber" v="6525,6527" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -15326,13 +15054,6 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Aetna Court" />
-  </node>
-  <node id="-433191" action="modify" visible="true" lat="43.037127" lon="-87.9991221">
-    <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="617" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="Crescent Court" />
   </node>
   <node id="-433192" action="modify" visible="true" lat="43.0374044" lon="-88.0035308">
     <tag k="addr:city" v="Wauwatosa" />
@@ -15403,13 +15124,6 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Terrace Court" />
-  </node>
-  <node id="-433202" action="modify" visible="true" lat="43.0391003" lon="-87.9972054">
-    <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6742" />
-    <tag k="addr:postcode" v="53213" />
-    <tag k="addr:state" v="WI" />
-    <tag k="addr:street" v="West Wisconsin Avenue" />
   </node>
   <node id="-433203" action="modify" visible="true" lat="43.0425459" lon="-88.0014398">
     <tag k="addr:city" v="Wauwatosa" />
@@ -15504,7 +15218,7 @@
   </node>
   <node id="-433216" action="modify" visible="true" lat="43.0375287" lon="-87.9925456">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="561" />
+    <tag k="addr:housenumber" v="559,561" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 64th Street" />
@@ -15602,7 +15316,7 @@
   </node>
   <node id="-433230" action="modify" visible="true" lat="43.0442147" lon="-88.0120844">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="7930" />
+    <tag k="addr:housenumber" v="7930,7932" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Gridley Avenue" />
@@ -15658,14 +15372,14 @@
   </node>
   <node id="-433238" action="modify" visible="true" lat="43.0382141" lon="-87.9931291">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="624" />
+    <tag k="addr:housenumber" v="624,626" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 65th Street" />
   </node>
   <node id="-433239" action="modify" visible="true" lat="43.03848" lon="-87.9865597">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5917" />
+    <tag k="addr:housenumber" v="5917,5919" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -15714,7 +15428,7 @@
   </node>
   <node id="-433246" action="modify" visible="true" lat="43.0384887" lon="-87.9924128">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6407" />
+    <tag k="addr:housenumber" v="6405,6407" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -15798,7 +15512,7 @@
   </node>
   <node id="-433258" action="modify" visible="true" lat="43.0399271" lon="-87.9888361">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6100" />
+    <tag k="addr:housenumber" v="6100,6102" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -15847,14 +15561,14 @@
   </node>
   <node id="-433265" action="modify" visible="true" lat="43.0394257" lon="-87.9880397">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6013" />
+    <tag k="addr:housenumber" v="6013,6015" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
   </node>
   <node id="-433266" action="modify" visible="true" lat="43.0385203" lon="-87.9873079">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="636" />
+    <tag k="addr:housenumber" v="636,638" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 60th Street" />
@@ -15959,7 +15673,7 @@
   </node>
   <node id="-433281" action="modify" visible="true" lat="43.0399647" lon="-87.9981963">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6822" />
+    <tag k="addr:housenumber" v="6822,6824" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -16043,7 +15757,7 @@
   </node>
   <node id="-433293" action="modify" visible="true" lat="43.0402552" lon="-87.9971217">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="826" />
+    <tag k="addr:housenumber" v="822,824,826" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 68th Street" />
@@ -16183,7 +15897,7 @@
   </node>
   <node id="-433313" action="modify" visible="true" lat="43.0399121" lon="-87.9881927">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6022" />
+    <tag k="addr:housenumber" v="6020,6022" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -16232,7 +15946,7 @@
   </node>
   <node id="-433320" action="modify" visible="true" lat="43.0391043" lon="-88.0014082">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="7104" />
+    <tag k="addr:housenumber" v="7102,7104" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -16274,7 +15988,7 @@
   </node>
   <node id="-433326" action="modify" visible="true" lat="43.0365943" lon="-87.9936599">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="517" />
+    <tag k="addr:housenumber" v="515,517" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 65th Street" />
@@ -16344,7 +16058,7 @@
   </node>
   <node id="-433336" action="modify" visible="true" lat="43.0384809" lon="-87.9858265">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="5829" />
+    <tag k="addr:housenumber" v="5829,5831" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -16477,7 +16191,7 @@
   </node>
   <node id="-433355" action="modify" visible="true" lat="43.0384794" lon="-87.9877492">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6005" />
+    <tag k="addr:housenumber" v="6005,6007" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -16491,7 +16205,7 @@
   </node>
   <node id="-433357" action="modify" visible="true" lat="43.0431265" lon="-87.9970017">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6745" />
+    <tag k="addr:housenumber" v="6745,6747" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Hillside Lane" />
@@ -16530,8 +16244,7 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
-    <tag k="addr:unit" v="1" />
-  </node>
+    </node>
   <node id="-433363" action="modify" visible="true" lat="43.0375242" lon="-87.9902864">
     <tag k="addr:city" v="Wauwatosa" />
     <tag k="addr:housenumber" v="551" />
@@ -16654,7 +16367,7 @@
   <node id="-433380" action="modify" visible="true" lat="43.039385" lon="-87.9840695">
     <tag k="addr:city" v="Milwaukee" />
     <tag k="addr:housenumber" v="723,723A" />
-    <tag k="addr:postcode" v="53213-4239" />
+    <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North Hawley Road" />
   </node>
@@ -16688,7 +16401,7 @@
   </node>
   <node id="-433385" action="modify" visible="true" lat="43.0394277" lon="-87.9959985">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6705" />
+    <tag k="addr:housenumber" v="6705,6707" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wells Street" />
@@ -16709,7 +16422,7 @@
   </node>
   <node id="-433388" action="modify" visible="true" lat="43.0400834" lon="-87.9971874">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="814" />
+    <tag k="addr:housenumber" v="812,814,816,818,820" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 68th Street" />
@@ -16786,7 +16499,7 @@
   </node>
   <node id="-433399" action="modify" visible="true" lat="43.037452" lon="-87.9858247">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="540" />
+    <tag k="addr:housenumber" v="538,540" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 59th Street" />
@@ -16940,7 +16653,7 @@
   </node>
   <node id="-433421" action="modify" visible="true" lat="43.0413802" lon="-87.997115">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="932" />
+    <tag k="addr:housenumber" v="932,934" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 68th Street" />
@@ -16968,7 +16681,7 @@
   </node>
   <node id="-433425" action="modify" visible="true" lat="43.0419936" lon="-87.9848944">
     <tag k="addr:city" v="Milwaukee" />
-    <tag k="addr:housenumber" v="5735" />
+    <tag k="addr:housenumber" v="5731,5735" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Trenton Place" />
@@ -17003,7 +16716,7 @@
   </node>
   <node id="-433430" action="modify" visible="true" lat="43.0376623" lon="-87.9907355">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="560" />
+    <tag k="addr:housenumber" v="560,562" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 63rd Street" />
@@ -17101,7 +16814,7 @@
   </node>
   <node id="-433444" action="modify" visible="true" lat="43.0372548" lon="-87.9877652">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="535" />
+    <tag k="addr:housenumber" v="533,535" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 60th Street" />
@@ -17112,11 +16825,10 @@
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Portland Avenue" />
-    <tag k="addr:unit" v="116" />
-  </node>
+    </node>
   <node id="-433446" action="modify" visible="true" lat="43.0391052" lon="-87.9920103">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6326" />
+    <tag k="addr:housenumber" v="6326,6328" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -17130,7 +16842,7 @@
   </node>
   <node id="-433448" action="modify" visible="true" lat="43.0379324" lon="-87.994272">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="610" />
+    <tag k="addr:housenumber" v="610,612" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 66th Street" />
@@ -17144,7 +16856,7 @@
   </node>
   <node id="-433450" action="modify" visible="true" lat="43.0369754" lon="-87.9902854">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="527" />
+    <tag k="addr:housenumber" v="527,529" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 62nd Street" />
@@ -17248,9 +16960,8 @@
     <tag k="addr:street" v="Cedar Street" />
   </node>
   <node id="-433465" action="modify" visible="true" lat="43.0370849" lon="-87.9857654">
-    <tag k="HOUSESX" v="A" />
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="520" />
+    <tag k="addr:housenumber" v="520,520A" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="North 59th Street" />
@@ -17348,7 +17059,7 @@
   </node>
   <node id="-433479" action="modify" visible="true" lat="43.039041" lon="-87.993173">
     <tag k="addr:city" v="Wauwatosa" />
-    <tag k="addr:housenumber" v="6432" />
+    <tag k="addr:housenumber" v="6430,6432" />
     <tag k="addr:postcode" v="53213" />
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="West Wisconsin Avenue" />
@@ -17389,4 +17100,4 @@
     <tag k="addr:state" v="WI" />
     <tag k="addr:street" v="Kavanaugh Place" />
   </node>
-</osm>
+<node id="-749172" action="modify" lat="43.0362456" lon="-88.0260849"><tag k="addr:housenumber" v="513,515,517" /><tag k="addr:street" v="North 91st Street" /><tag k="addr:city" v="Milwaukee" /><tag k="addr:state" v="WI" /><tag k="addr:postcode" v="53226" /></node><node id="-749171" action="modify" lat="43.042144" lon="-88.0135295"><tag k="addr:housenumber" v="950" /><tag k="addr:street" v="North Glenview Avenue" /><tag k="addr:city" v="Wauwatosa" /><tag k="addr:state" v="WI" /><tag k="addr:postcode" v="53213" /></node><node id="-749170" action="modify" lat="43.048299" lon="-88.0093047"><tag k="addr:housenumber" v="7809" /><tag k="addr:street" v="Harwood Avenue" /><tag k="addr:city" v="Wauwatosa" /><tag k="addr:state" v="WI" /><tag k="addr:postcode" v="53213" /></node><node id="-749169" action="modify" lat="43.0423261" lon="-88.0142531"><tag k="addr:housenumber" v="955,957" /><tag k="addr:street" v="North Glenview Avenue" /><tag k="addr:city" v="Wauwatosa" /><tag k="addr:state" v="WI" /><tag k="addr:postcode" v="53213" /></node><node id="-749168" action="modify" lat="43.0475789" lon="-88.0115046"><tag k="addr:housenumber" v="7907,7907A,7909" /><tag k="addr:street" v="Harwood Avenue" /><tag k="addr:city" v="Wauwatosa" /><tag k="addr:state" v="WI" /><tag k="addr:postcode" v="53213" /></node><node id="-749167" action="modify" lat="43.0380969" lon="-88.0313147"><tag k="addr:housenumber" v="646,648,650" /><tag k="addr:street" v="North 95th Street" /><tag k="addr:city" v="Milwaukee" /><tag k="addr:state" v="WI" /><tag k="addr:postcode" v="53226" /></node><node id="-749166" action="modify" lat="43.0408866" lon="-87.9976889"><tag k="addr:housenumber" v="6804" /><tag k="addr:street" v="Cedar Street" /><tag k="addr:city" v="Wauwatosa" /><tag k="addr:state" v="WI" /><tag k="addr:postcode" v="53213" /></node><node id="-749165" action="modify" lat="43.0431773" lon="-87.9972857"><tag k="addr:housenumber" v="6751" /><tag k="addr:street" v="Hillside Lane" /><tag k="addr:city" v="Wauwatosa" /><tag k="addr:state" v="WI" /><tag k="addr:postcode" v="53213" /></node><node id="-749164" action="modify" lat="43.0404924" lon="-87.9972535"><tag k="addr:housenumber" v="6751" /><tag k="addr:street" v="Cedar Street" /><tag k="addr:city" v="Wauwatosa" /><tag k="addr:state" v="WI" /><tag k="addr:postcode" v="53213" /></node><node id="-749163" action="modify" lat="43.0379042" lon="-87.9862795"><tag k="addr:housenumber" v="605,607" /><tag k="addr:street" v="North 59th Street" /><tag k="addr:city" v="Wauwatosa" /><tag k="addr:state" v="WI" /><tag k="addr:postcode" v="53213" /></node><node id="-749162" action="modify" lat="43.0422002" lon="-87.9990015"><tag k="addr:housenumber" v="6812" /><tag k="addr:street" v="Aetna Court" /><tag k="addr:city" v="Wauwatosa" /><tag k="addr:state" v="WI" /><tag k="addr:postcode" v="53213" /></node><node id="-749161" action="modify" lat="43.0390832" lon="-87.99482640000001"><tag k="addr:housenumber" v="709" /><tag k="addr:street" v="North 66th Street" /><tag k="addr:city" v="Wauwatosa" /><tag k="addr:state" v="WI" /><tag k="addr:postcode" v="53213" /></node><node id="-749160" action="modify" lat="43.0398694" lon="-87.9969779"><tag k="addr:housenumber" v="800,804,806" /><tag k="addr:street" v="North 68th Street" /><tag k="addr:city" v="Wauwatosa" /><tag k="addr:state" v="WI" /><tag k="addr:postcode" v="53213" /></node><node id="-749159" action="modify" lat="43.0384809" lon="-87.9858765"><tag k="addr:housenumber" v="634" /><tag k="addr:street" v="North 61st Street" /><tag k="addr:city" v="Wauwatosa" /><tag k="addr:state" v="WI" /><tag k="addr:postcode" v="53213" /></node></osm>
