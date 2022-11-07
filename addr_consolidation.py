@@ -97,7 +97,6 @@ def stack_addresses():
         if stack_counts[key] < 2:
             del stack_counts[key]
 
-
     loc_dict = {}
     name_dict = {}
     with open('Address_Points.csv', mode ='r') as file:   
@@ -249,8 +248,6 @@ def find_dup_stacked(stacked_addrs_list):
                 filtered_stacked = [x for x in stacked_addrs_list if x['housenumber'] == housenumber and x['street'] == street]
                 if len(filtered_stacked) > 0:
                     print(f'Duplicated address and address is stacked: {housenumber} {street}')
-
-        
 
 
 def main():
