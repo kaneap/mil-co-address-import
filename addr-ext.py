@@ -1,15 +1,11 @@
 from fileinput import filename
 import xml.etree.ElementTree as ET
-
-
-def format_housenumber(housenumber, extension = ''):
-    if extension == '':
-        return housenumber
-    if extension == '1/2':
-        extension = ' 1/2'
-    return housenumber + extension
+from find_address import format_housenumber
 
 def process_housenumbers(filename):
+    '''
+    add the extension to the housenumbers on all houses
+    '''
     tree = ET.parse(filename)
     root = tree.getroot()
 

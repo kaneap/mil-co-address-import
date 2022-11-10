@@ -1,11 +1,12 @@
-
-import csv
-
 from cv2 import add
 from fileinput import filename
 import xml.etree.ElementTree as ET
 
 def delete_points(del_points_filename):
+    '''
+    Given an osm file with a number of nodes, delete the nodes in the tract files
+    at the exact same coordinates
+    '''
     tree = ET.parse(del_points_filename)
     root = tree.getroot()
 
